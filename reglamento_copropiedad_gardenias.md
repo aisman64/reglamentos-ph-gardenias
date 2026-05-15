@@ -1660,7 +1660,7 @@ Todo acuerdo que señale modificación de cuotas de gastos comunes ordinarias o 
 De no lograrse el quórum reglamentario en la reunión de primera convocatoria, el secretario dejará constancia en acta y se convocará una segunda reunión conforme a la Ley 284 de 14 de febrero de 2022, en la cual bastará con la aprobación de, como mínimo, el treinta por ciento (30%) de la totalidad de las UNIDADES INMOBILIARIAS que se encuentren al día en el pago de las cuotas de gastos comunes.
 
 #### ARTICULO 35A.
-La Junta Directiva podrá ofrecer arreglos de pago a propietarios morosos para facilitar la recaudación de cuotas y mejorar la situación económica del P.H. GARDENIAS, conforme a los siguientes parámetros:
+Los PROPIETARIOS morosos podrán solicitar arreglos de pago para facilitar la recaudación de cuotas y mejorar la situación económica del P.H. GARDENIAS, los cuales deberán ser aprobados por la Junta Directiva, conforme a los siguientes parámetros:
 
 1. No se otorgará arreglo de pago a propietarios que hayan incumplido arreglos anteriores en los últimos veinticuatro (24) meses.
 
@@ -1676,6 +1676,8 @@ La Junta Directiva podrá ofrecer arreglos de pago a propietarios morosos para f
 Con el fin de incentivar la recaudación y conforme al artículo 23 de la Ley 284 de 14 de febrero de 2022, el PROPIETARIO que cancele por adelantado la anualidad de la cuota de gastos comunes ordinaria, dentro de los diez (10) primeros días calendarios del mes de enero de cada año, recibirá un incentivo equivalente al cinco por ciento (5%) sobre el monto total de dicha anualidad.
 
 Este incentivo aplicará únicamente a cuotas de gastos comunes ordinarias del año corriente, no será acumulable con otros beneficios y no aplicará a cuotas extraordinarias, saldos morosos, recargos, multas, ni arreglos de pago en curso. El incentivo del cinco por ciento (5%) se aplicará como descuento directo al momento de efectuar el pago y no generará saldo a favor ni crédito para periodos posteriores.
+
+En caso de que durante el año exista un cambio en la cuota de gastos comunes, el PROPIETARIO deberá pagar la diferencia o, según corresponda, se le acreditará el ajuste respectivo, dentro de los treinta (30) días calendario siguientes a la fecha efectiva del cambio de cuota. Para obtener el beneficio sobre la diferencia, el PROPIETARIO deberá encontrarse al día en el pago de sus cuotas y haber efectuado el pago adelantado de la anualidad conforme a este artículo.
 
 #### ARTICULO 36
 Cuando alguno de los PROPIETARIOS se negare a satisfacer el valor de dichas Cuotas de Administración o a cubrir aquellos otros gastos, expensas o multas a cuyo pago este obligado por Ley o por este Reglamento y cuya recaudación corresponda al Administrador, por término de dos (2) meses o más, el Administrador podrá, o en su defecto la Junta Directiva, entablar en contra del PROPIETARIO renuente un Proceso Ejecutivo. En dicho Proceso tendrá el valor de título ejecutivo el Estado de Cuenta y/o los recibos no pagados que presente el Administrador al PROPIETARIO con el propósito de exigir judicialmente el cumplimiento de la obligación.

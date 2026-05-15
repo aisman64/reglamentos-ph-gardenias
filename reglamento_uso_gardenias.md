@@ -157,6 +157,38 @@ Normas para el Uso de Área de parque infantil y gazebo:
 
 8. No se permite fumar ni ingerir bebidas alcoholicas en el área de juego de niños y adyacentes.
 
+#### Artículo 11A.
+Alquiler del gazebo por residentes.
+
+1. Los propietarios y arrendatarios residentes del P.H. GARDENIAS (P.H. DERIVADO) podrán solicitar el alquiler del gazebo para actividades privadas de carácter familiar o vecinal.
+
+2. La solicitud deberá presentarse por escrito ante la Administración con un mínimo de cinco (5) días calendario de anticipación, indicando fecha, horario, unidad inmobiliaria solicitante y cantidad estimada de asistentes.
+
+3. La tarifa de alquiler del gazebo será de cien balboas (B/. 100.00) por evento y deberá ser cancelada antes del inicio de la actividad.
+
+4. Para actividades autorizadas conforme al presente artículo, el uso del gazebo podrá extenderse hasta las 9:00 p.m., manteniéndose en todo momento el cumplimiento de las normas de convivencia y de control de ruido previstas en este Reglamento.
+
+5. El residente solicitante será responsable por el orden, limpieza, manejo adecuado de desechos y reparación de cualquier daño causado al área común, sin perjuicio de los cobros que correspondan por gasto común.
+
+6. Queda prohibida la cesión, subalquiler o transferencia de la reserva a personas no residentes del P.H. GARDENIAS (P.H. DERIVADO).
+
+7. El incumplimiento de este artículo será sancionado conforme al régimen de prohibiciones, multas y garantías procedimentales establecido en este Reglamento.
+
+#### Artículo 11B.
+Uso del gazebo por el Comité de Actividades.
+
+1. El Comité de Actividades podrá solicitar el uso del gazebo para actividades en pro de la integración vecinal y del P.H. GARDENIAS (P.H. DERIVADO), previa coordinación con la Administración y aprobación de la Junta Directiva.
+
+2. Las actividades organizadas por el Comité de Actividades deberán tener finalidad comunitaria y no podrán destinarse a fines comerciales ni de lucro personal.
+
+3. La programación de dichas actividades deberá presentarse con un mínimo de cinco (5) días calendario de anticipación, salvo casos especiales debidamente justificados y autorizados por la Junta Directiva.
+
+4. El uso del gazebo para estas actividades podrá extenderse hasta las 9:00 p.m., respetando las disposiciones sobre ruido, seguridad y convivencia aplicables en el P.H. GARDENIAS (P.H. DERIVADO).
+
+5. Cuando la actividad sea oficial del Comité de Actividades y esté aprobada por la Junta Directiva, no causará tarifa de alquiler; en todo caso, el Comité y los participantes responderán por la limpieza, el orden y los daños que se ocasionen.
+
+6. El incumplimiento de este artículo se sujetará al régimen de prohibiciones, multas y garantías procedimentales establecido en este Reglamento.
+
 ## IV. ANIMALES DOMÉSTICOS
 
 #### Artículo 12.

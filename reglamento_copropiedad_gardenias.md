@@ -1848,7 +1848,7 @@ La Junta Directiva será responsable por cumplir y hacer cumplir las decisiones 
 11. Autorizar al Administrador para que requiera el cobro, por la vía judicial o administrativa, de cualquier deuda de los propietarios.
 12. Nombrar, cuando así lo estime conveniente, un Contador Público Autorizado, quien deberá auditar los libros que lleve el Administrador y rendir un interme ante la Asamblea de Propietarios, a menos que esta, por mayoría de votos, no lo estime conveniente.
 13. Convocar a la asamblea de Propietarios a sesión extraordinaria, cuando así lo requieron las circunstancias.
-14. Crear comités de apoyo y designar a los propietarios que los conformen.
+14. Crear comités de apoyo y designar a los propietarios que los conformen, incluyendo el Comité de Actividades, el cual tendrá como finalidad proponer y organizar actividades en pro de la integración vecinal y del P.H. GARDENIAS, coordinar con la Administración el uso de áreas comunes para dichos fines y actuar conforme a los lineamientos y aprobaciones que establezca la Junta Directiva.
 15. Todas aquellas que le confiere la ley 284 del 14 de febrero de 2022, en su artículo 80.
 16. Cualquiera otra función que le asigne la Asamblea de Propietarios.
 

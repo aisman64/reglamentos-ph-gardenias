@@ -1763,12 +1763,15 @@ Queda prohibido a los PROPIETARIOS, de las UNIDADES INMOBILIARÍAS y a quienes l
     Ningún portón será colocado en cerca o pared alguna que se encuentre entre el límite de un Lote y un lote del Área Común, excepto por EL PROMOTOR de conformidad con sus planos arquitectónicos.
 
 33. No habrá cambios en el tratamiento de la fachada, elementos de piedra natural (en las unidades que tengan esta característica), puertas y ventanas, materiales del techo o la paleta de colores usada para el exterior de cualesquiera mejoras dentro del PROYECTO, sin la aprobación previa del Comité Arquitectónico.
+34. Proferir agresiones verbales (insultos, amenazas, vejaciones) o agresiones físicas contra el Administrador, el personal de seguridad o los conserjes del P.H. GARDENIAS.
 
 ##### PARÁGRAFO
 La Junta Directiva podrá establecer, mediante Resoluciones, prohibiciones adicionales que surtirán efecto hasta su aprobación o rechazo en la siguiente Asamblea de Propietarios.
 
 #### ARTICULO 41
 Multa y Procedimiento. La Infracción a cualquiera de los prohibiciones contenidas en el artículo anterior, podrá ser denunciada por el Administrador o por cualquiera de los PROPIETARIOS ante el Ministerio de Vivienda y Ordenamiento Territorial, el Juez de Paz o la autoridad competente y, en caso de comprobarse la infracción, se ordenará la cesación de los actos y se podrá amonestar el imponer multas de cincuenta dólares (US$50.00) a quinientos dólares (US$500.00) moneda de curso legal de los Estados Unidos de América, sin perjuicio de aquellas que ya aparezcan consignadas en el presente documento, al infractor, quien responderá además por los daños y perjuicios a que hubiera lugar, y sin perjuicio de que se le aplique lo que al respecto establezca el Reglamento de Copropiedad, El cobro de la multa correrá por cuenta del Administrador.
+
+Para las conductas descritas en el numeral 34 del artículo anterior, se fija expresamente: (i) agresión verbal contra el Administrador, personal de seguridad o conserjes: multa TBD; y (ii) agresión física contra el Administrador, personal de seguridad o conserjes: multa TBD, sin perjuicio de las acciones civiles, penales o administrativas a que hubiere lugar.
 
 Cada PROPIETARIO será solidariamente responsable de los actos de sus dependientes, huéspedes, arrendatarios, invitados, clientes, y de los actos de los personas a quienes diere en arrendamiento o a cualquier título cediere el uso y goce de su UNIDAD INMOBILARIA y de los daños o perjuicios que dichas personas ocasiones al P.H. GARDENIAS y a otros PROPIETARIOS o a terceros.
 

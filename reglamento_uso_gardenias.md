@@ -361,7 +361,9 @@ Los propietarios no podrán incurrir en las siguientes conductas que serán sanc
 16. Disponer de la basura o de los desperdicios por medios distintos a los previstos por la administración del P.H. GARDENIAS (P.H. DERIVADO).
 17. Cuando por omisión o negligencia en el cumplimiento de los deberes asignados a cada propietario en el Reglamento de Propietarios o este Reglamento, la copropiedad tuviese que hacer gastos distintos de los ordinarios, al propietario responsable se le cobrarán las expensas así ocasionadas, más un recargo indemnizatorio del veinte por ciento (20%), del valor de aquéllas.
 18. En caso de que la Administración del P.H. GARDENIAS (P.H. DERIVADO), detecte la adulteración de alguno de los equipos de medición de una unidad inmobiliaria, cobrará una sanción equivalente a doscientos dólares (US$200.00) sin menoscabo de la sanción que imponga la compañía proveedora de energía eléctrica.
-19. Cualquier otra conducta no permitida de acuerdo con este reglamento, para la cual no se contemple una sanción específica.
+19. Proferir insultos, amenazas, vejaciones o cualquier agresión verbal contra la Administración, el personal de seguridad o los conserjes del P.H. GARDENIAS (P.H. DERIVADO).
+20. Incurrir en agresión física, intento de agresión física o contacto físico intimidatorio contra la Administración, el personal de seguridad o los conserjes del P.H. GARDENIAS (P.H. DERIVADO).
+21. Cualquier otra conducta no permitida de acuerdo con este reglamento, para la cual no se contemple una sanción específica.
 
 #### Artículo 38.
 En casos urgentes o apremiantes que miren a la seguridad, la salud, o la vida de los ocupantes del P.H. GARDENIAS (P.H. DERIVADO), el Administrador podrá adoptar medidas inmediatas y provisionales de protección.
@@ -392,6 +394,8 @@ Todo propietario o residente tendrá derecho a presentar peticiones respetuosas 
 | Faltas de estacionamientos, circulación y tránsito interno | TBD |
 | Faltas de obras, instalaciones, drenajes, salubridad y seguridad | TBD |
 | Faltas en tenencia y manejo de mascotas no cubiertas en categorías específicas | TBD |
+| Agresiones verbales contra la Administración, personal de seguridad o conserjes | TBD |
+| Agresiones físicas contra la Administración, personal de seguridad o conserjes | TBD |
 | Retraso en el pago de la cuota de mantenimiento | 10% sobre monto vencido |
 | Cualquier otra infracción o prohibición prevista en este Reglamento de Uso y en el Reglamento de Copropiedad | TBD |
 

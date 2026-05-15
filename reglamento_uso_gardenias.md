@@ -279,7 +279,7 @@ Los PROPIETARIOS deberán sufragar los gastos de administración, conservación,
 
 2. Los gastos de conservación y mantenimiento de los bienes comunes del P.H. GARDENIAS.
 
-Las cuotas de mantenimiento serán cubiertas durante los cinco (5) primeros días de cada mes. En caso de atraso, la Junta Directiva podrá aplicar un recargo de hasta veinte por ciento (20%) sobre la suma vencida, conforme a la Ley aplicable y previa notificación.
+Las cuotas de mantenimiento serán cubiertas durante los DIEZ (10) primeros días de cada mes. A partir del día 11 (once) del mes se aplicará automáticamente un recargo de diez por ciento (10%) sobre la suma vencida, conforme a la Ley 284 de 14 de febrero de 2022. La Junta Directiva notificará por escrito al propietario de la aplicación del recargo.
 
 Los pagos podrán hacerse por depósito directo, transferencia local o internacional y por cualquier otro medio de pago autorizado por la Administración que permita trazabilidad y emisión de recibo.
 
@@ -290,7 +290,7 @@ Para reservar áreas sociales de uso exclusivo, el propietario deberá estar a p
 #### Artículo 37.
 Los propietarios no podrán incurrir en las siguientes conductas que serán sancionadas:
 
-1. El no pago oportuno de la cuota de administración: la Junta Directiva podrá aplicar un recargo de hasta veinte por ciento (20%) sobre la cuota vencida y el propietario será considerado moroso mientras mantenga saldo pendiente.
+1. El no pago oportuno de la cuota de administración: a partir del día 11 (once) del mes se aplicará automáticamente un recargo de diez por ciento (10%) sobre la cuota vencida. El propietario será considerado moroso mientras mantenga saldo pendiente.
 
     A partir de los dos (2) meses o más del vencimiento de la obligación de pago, podrán aplicarse las medidas permitidas por la Ley, entre ellas:
     a) Publicación en lugar visible del número de unidad inmobiliaria morosa, número de finca y monto adeudado, sin incluir nombre del propietario.

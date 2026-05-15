@@ -1621,7 +1621,7 @@ Cada PROPIETARIO deberá contribuir a las expensas necesarias para sufragar los 
 
 Estos gastos comunes que los PROPIETARIOS de cada UNIDAD INMOBILIARIA, sufragarán incluirán la contratación de seguros que incluya como mínimo, coberturas contra incendio, terremotos, incendios causados por terremotos, así como cobertura contra desastres naturales, con extensión de cobertura sobre todo el P.H. GARDENIAS.
 
-La cuota de gastos comunes deberá ser cubierta dentro de los CINCO (5) primeros días calendarios de cada mes, generando los intereses por mora detallados en el Reglamento de Uso.
+La cuota de gastos comunes deberá ser cubierta dentro de los DIEZ (10) primeros días calendarios de cada mes. En caso de atraso posterior a este plazo, se aplicarán recargos por mora conforme a lo establecido en el Reglamento de Uso del P.H. GARDENIAS y la Ley 284 de 14 de febrero de 2022.
 
 ##### PARAGRAFO 1
 Ningún PROPIETARIO podrá liberarse de su obligación de contribuir con la Cuota de Gastos Comunes por renuncia del uso, goce o abandono de LA UNIDAD INMOBILIARIA, ni de los bienes y servicios comunes. 
@@ -1658,6 +1658,24 @@ De igual forma cada PROPIETARIO deberá contribuir a las expensas necesarias par
 Todo acuerdo que señale modificación de cuotas de gastos comunes ordinarias o la aprobación de cuotas de gastos comunes extraordinarias en primera convocatoria, requerirá la aprobación de la Asamblea de Propietarios mediante la votación favorable de, por lo menos, el cincuenta y un por ciento (51%) de la totalidad de las UNIDADES INMOBILIARIAS que se encuentren al día en el pago de las cuotas de gastos comunes.
 
 De no lograrse el quórum reglamentario en la reunión de primera convocatoria, el secretario dejará constancia en acta y se convocará una segunda reunión conforme a la Ley 284 de 14 de febrero de 2022, en la cual bastará con la aprobación de, como mínimo, el treinta por ciento (30%) de la totalidad de las UNIDADES INMOBILIARIAS que se encuentren al día en el pago de las cuotas de gastos comunes.
+
+#### ARTICULO 35A.
+La Junta Directiva podrá ofrecer arreglos de pago a propietarios morosos para facilitar la recaudación de cuotas y mejorar la situación económica del P.H. GARDENIAS, conforme a los siguientes parámetros:
+
+1. No se otorgará arreglo de pago a propietarios que hayan incumplido arreglos anteriores en los últimos veinticuatro (24) meses.
+
+2. La deuda morosa de cuotas de gastos comunes podrá dividirse en un máximo de doce (12) cuotas mensuales adicionales, cada una incluyendo el cincuenta por ciento (50%) del recargo del diez por ciento (10%).
+
+3. La Junta Directiva podrá acordar el fraccionamiento del pago de daños causados a bienes comunes en un máximo de seis (6) cuotas mensuales, siempre que el PROPIETARIO mantenga al día el pago de sus cuotas ordinarias de gastos comunes durante el período de fraccionamiento.
+
+4. Cuando el PROPIETARIO formalice un arreglo de pago y cancele por adelantado al menos el treinta por ciento (30%) del total de la deuda morosa por cuotas de gastos comunes, se levantarán las restricciones por mora, sin perjuicio de que dichas restricciones puedan reactivarse automáticamente en caso de incumplimiento del arreglo.
+
+5. Todo arreglo se formalizará por escrito. El incumplimiento de cualquier cuota dentro del arreglo lo hará automáticamente nulo, procediendo la Junta Directiva a aplicar las medidas por mora del ARTICULO 36. Los arreglos respetarán el máximo de recargo establecido en la Ley 284 de 14 de febrero de 2022.
+
+#### ARTICULO 35B.
+Con el fin de incentivar la recaudación y conforme al artículo 23 de la Ley 284 de 14 de febrero de 2022, el PROPIETARIO que cancele por adelantado la anualidad de la cuota de gastos comunes ordinaria, dentro de los diez (10) primeros días calendarios del mes de enero de cada año, recibirá un incentivo equivalente al cinco por ciento (5%) sobre el monto total de dicha anualidad.
+
+Este incentivo aplicará únicamente a cuotas de gastos comunes ordinarias del año corriente, no será acumulable con otros beneficios y no aplicará a cuotas extraordinarias, saldos morosos, recargos, multas, ni arreglos de pago en curso. El incentivo del cinco por ciento (5%) se aplicará como descuento directo al momento de efectuar el pago y no generará saldo a favor ni crédito para periodos posteriores.
 
 #### ARTICULO 36
 Cuando alguno de los PROPIETARIOS se negare a satisfacer el valor de dichas Cuotas de Administración o a cubrir aquellos otros gastos, expensas o multas a cuyo pago este obligado por Ley o por este Reglamento y cuya recaudación corresponda al Administrador, por término de dos (2) meses o más, el Administrador podrá, o en su defecto la Junta Directiva, entablar en contra del PROPIETARIO renuente un Proceso Ejecutivo. En dicho Proceso tendrá el valor de título ejecutivo el Estado de Cuenta y/o los recibos no pagados que presente el Administrador al PROPIETARIO con el propósito de exigir judicialmente el cumplimiento de la obligación.

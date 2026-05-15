@@ -243,9 +243,7 @@ ARTÍCULO 29 Los contratistas que realicen estos trabajos deben contar con todos
 #### Artículo 30.
 En el caso de vender o alquilar su unidad inmobiliaria, todo propietario está en obligación de informar al nuevo propietario o arrendatario de las normas y reglamentos por los que se rige el P.H. GARDENIAS (P.H. DERIVADO). El nuevo propietario o arrendatario deberá obligarse, por escrito, a cumplir con dichas normas y reglamentos, de igual manera se prohíbe
 
-colocar material publicitario visible en la unidad inmobiliaria que no guarde relación con la venta o alquiler de la misma.
-
-Se permitirá un (1) letrero de "Se vende" o "Se alquila" por unidad inmobiliaria, de tamaño discreto y en un área destinada de la fachada o ventana, sin afectar la seguridad ni la estética general del P.H. Queda prohibida la colocación de letreros en bienes comunes.
+colocar letreros de se vende o alquila o cualquier material publicitario visible en la unidad inmobiliaria.
 
 #### Artículo 31.
 En el caso de alquilar su unidad inmobiliaria, todo propietario está en obligación de notificar a la Junta Directiva por conducto de la Administración, el nombre del arrendatario que estará alquilando la unidad inmobiliaria. Si un propietario entrega a la administración y alquiler de su unidad inmobiliaria a una agencia de bienes raíces deberán entender ambos que están sometidos a las normas y reglamentos por los que se rige el PH. No se permitirán abusos, desinterés ni falta de observancia a estas normas y reglamentos por parte de ninguna agencia de bienes raíces. En la eventualidad que ello se dé, el personal de dichas agencias de bienes raíces no podrán acceder a los predios del P.H. para llegar a la unidad inmobiliaria objeto de su administración, independientemente de contar con la autorización del propietario respectivo hasta tanto en cuanto éste cancele las multas que sean del caso y la agencia de bienes raíces se comprometa por escrito a acatar las normas y reglamentos por los que se rige el PH. En el caso que un arrendatario se niegue a acatar las normas y reglamentos del PH deberá asumir las consecuencias que derivarán de las acciones legales o coercitivas a que recurra la Junta Directiva para evitar y corregir anomalías.
@@ -285,16 +283,25 @@ Las cuotas de mantenimiento serán cubiertas durante los cinco (5) primeros día
 
 Los pagos podrán hacerse por depósito directo, transferencia local o internacional y por cualquier otro medio de pago autorizado por la Administración que permita trazabilidad y emisión de recibo.
 
-Los propietarios deberán estar a paz y salvo con las cuotas de la administración para poder reservar y utilizar las áreas sociales y facilidades comunes.
+Para reservar áreas sociales de uso exclusivo, el propietario deberá estar a paz y salvo con las cuotas de la administración. Las demás medidas por morosidad se aplicarán conforme a la Ley y al presente Reglamento, incluyendo el plazo mínimo de dos (2) meses de atraso cuando corresponda.
 
 ## XI. PROHIBICIONES Y MULTAS
 
-#### Artículo 36.
+#### Artículo 37.
 Los propietarios no podrán incurrir en las siguientes conductas que serán sancionadas:
 
-1. El no pago oportuno de la cuota de administración: la Junta Directiva podrá aplicar un recargo de hasta veinte por ciento (20%) sobre la cuota vencida y el propietario será considerado moroso mientras mantenga saldo pendiente. A partir del segundo mes de morosidad podrán aplicarse las medidas permitidas por la Ley, incluyendo restricción de uso de áreas comunes recreativas y de ciertas facilidades comunes, manteniendo siempre el acceso por entrada de visitantes y sin suspender el servicio de agua.
+1. El no pago oportuno de la cuota de administración: la Junta Directiva podrá aplicar un recargo de hasta veinte por ciento (20%) sobre la cuota vencida y el propietario será considerado moroso mientras mantenga saldo pendiente.
 
-    El aviso de morosidad que se publique en lugar visible identificará únicamente la unidad inmobiliaria morosa y el monto adeudado, sin incluir nombre del propietario.
+    A partir de los dos (2) meses o más del vencimiento de la obligación de pago, podrán aplicarse las medidas permitidas por la Ley, entre ellas:
+    a) Publicación en lugar visible del número de unidad inmobiliaria morosa, número de finca y monto adeudado, sin incluir nombre del propietario.
+    b) Suspensión del uso de áreas comunes recreativas y de servicios comunes para cuyo suministro sea necesario el aporte de cuotas de gastos comunes, con excepción del servicio de agua.
+    c) Negación de servicios de vigilancia y seguridad, correspondencia, portería, y de permisos para entrada de materiales o para remodelaciones/construcciones en la unidad.
+    d) Restricción del uso de entrada por control remoto o facilidades tecnológicas al propietario moroso y sus dependientes, permitiendo el acceso por entrada de visitantes.
+    e) Restricción de acceso vehicular a visitas y proveedores no esenciales y/o no urgentes, permitiendo el paso de ambulancias, vehículos de emergencia, autoridades y proveedores de medicamentos o alimentación cuando corresponda.
+    f) Interposición de proceso ejecutivo con base en el estado de cuenta o recibos no pagados.
+    g) Información por escrito a instituciones acreedoras hipotecarias o fiduciarias cuando exista atraso de dos (2) meses o más.
+
+    El propietario moroso asumirá los gastos en que incurra la propiedad horizontal para la aplicación de estas acciones y recuperación de expensas, incluyendo honorarios por servicios profesionales.
 2. La utilización de su unidad inmobiliaria en forma distinta a la indicada en el Reglamento de Copropiedad, y en general, en forma contraria a la Ley, la moral y las buenas costumbres.
 3. Hacer uso o permitir el uso de su unidad inmobiliaria o de los bienes comunes en forma tal que perturbe o pueda perturbar la tranquilidad y el sosiego de los demás Propietarios y desmerecer el buen nombre del P.H. GARDENIAS (P.H. DERIVADO).
 4. El uso inmoderado de aparatos de radio, televisión, tocadíscos y otros artefactos similares, cuyo volumen afecte a los demás propietarios.
@@ -314,7 +321,7 @@ Los propietarios no podrán incurrir en las siguientes conductas que serán sanc
 18. En caso de que la Administración del P.H. GARDENIAS (P.H. DERIVADO), detecte la adulteración de alguno de los equipos de medición de una unidad inmobiliaria, cobrará una sanción equivalente a doscientos dólares (US$200.00) sin menoscabo de la sanción que imponga la compañía proveedora de energía eléctrica.
 19. Cualquier otra conducta no permitida de acuerdo con este reglamento, para la cual no se contemple una sanción específica.
 
-#### Artículo 37.
+#### Artículo 38.
 En casos urgentes o apremiantes que miren a la seguridad, la salud, o la vida de los ocupantes del P.H. GARDENIAS (P.H. DERIVADO), el Administrador podrá adoptar medidas inmediatas y provisionales de protección.
 
 Toda medida adoptada por el Administrador bajo este supuesto deberá ser comunicada por escrito a la Junta Directiva dentro de las cuarenta y ocho (48) horas siguientes para su ratificación, modificación o levantamiento.
@@ -323,16 +330,16 @@ Fuera de los casos de urgencia, toda privación de servicios o restricción de b
 
 ## XII. GARANTÍAS PROCEDIMENTALES
 
-#### Artículo 38.
+#### Artículo 39.
 Para la imposición de sanciones por incumplimiento de este Reglamento, se garantizará el debido proceso, incluyendo: (1) notificación escrita de los hechos y norma presuntamente infringida; (2) plazo no menor de cinco (5) días hábiles para presentar descargos y pruebas; (3) decisión motivada de la Junta Directiva o de la autoridad interna competente; y (4) recurso de reconsideración ante la Junta Directiva dentro de los cinco (5) días hábiles siguientes a la notificación de la decisión.
 
-#### Artículo 39.
+#### Artículo 40.
 Todo propietario o residente tendrá derecho a presentar peticiones respetuosas y por escrito a la Junta Directiva y/o Administración para solicitar información o documentos vinculados a la propiedad horizontal. La Administración deberá responder por escrito en un plazo razonable, no mayor de diez (10) días hábiles, salvo causa justificada.
 
 | INFRACCIÓN | MULTA |
 | --- | --- |
 | Modificaciones de fachadas sin la previa aprobación del Comité Arquitectónico | $500.00 |
-| Colocar material publicitario no autorizado en fachadas o bienes comunes | $200.00 |
+| Colocar letreros de se vende / se alquila o cualquier material publicitario visible en las unidades | $200.00 |
 | Mascotas sueltas fuera de las unidades inmobiliarias | $75.00 |
 | No limpiar los desechos de las mascotas inmediatamente | $50.00 |
 | Falta de limpieza y no desechar la basura luego de mudanzas | $50.00 |
@@ -341,5 +348,6 @@ Todo propietario o residente tendrá derecho a presentar peticiones respetuosas 
 | Estacionarse en los estacionamientos reservados para visitas o en área común | $75.00 |
 | Arrojar basura en las áreas comunes | $100.00 |
 | Exceso de ruidos o sonidos altos que perturben a los demás residentes | $100.00 |
+| No asistir a las Asambleas de Propietarios | $150.00 |
 | No informar oportunamente sobre el alquiler de una unidad inmobiliaria | $75.00 |
 

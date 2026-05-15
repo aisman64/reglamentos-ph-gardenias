@@ -1771,8 +1771,6 @@ La Junta Directiva podrá establecer, mediante Resoluciones, prohibiciones adici
 #### ARTICULO 41
 Multa y Procedimiento. La Infracción a cualquiera de los prohibiciones contenidas en el artículo anterior, podrá ser denunciada por el Administrador o por cualquiera de los PROPIETARIOS ante el Ministerio de Vivienda y Ordenamiento Territorial, el Juez de Paz o la autoridad competente y, en caso de comprobarse la infracción, se ordenará la cesación de los actos y se podrá amonestar el imponer multas de cincuenta dólares (US$50.00) a quinientos dólares (US$500.00) moneda de curso legal de los Estados Unidos de América, sin perjuicio de aquellas que ya aparezcan consignadas en el presente documento, al infractor, quien responderá además por los daños y perjuicios a que hubiera lugar, y sin perjuicio de que se le aplique lo que al respecto establezca el Reglamento de Copropiedad, El cobro de la multa correrá por cuenta del Administrador.
 
-Para las conductas descritas en el numeral 34 del artículo anterior, se fija expresamente: (i) agresión verbal contra el Administrador, personal de seguridad o conserjes: multa TBD; y (ii) agresión física contra el Administrador, personal de seguridad o conserjes: multa TBD, sin perjuicio de las acciones civiles, penales o administrativas a que hubiere lugar.
-
 Cada PROPIETARIO será solidariamente responsable de los actos de sus dependientes, huéspedes, arrendatarios, invitados, clientes, y de los actos de los personas a quienes diere en arrendamiento o a cualquier título cediere el uso y goce de su UNIDAD INMOBILARIA y de los daños o perjuicios que dichas personas ocasiones al P.H. GARDENIAS y a otros PROPIETARIOS o a terceros.
 
 En los casos en que en este Reglamento, o posteriormente en el Reglamento de Uso, se disponga que la Administración realizará gestiones a costa de un PROPIETARIO, éste último deberá pagar la totalidad de los daños causados, inclusive de las gestiones llevadas a cabo para su reparación, en un periodo de treinta (30) días calendario. Transcurrido ese tiempo, a dicho PROPIETARIO se le cargará, además del reembolso del cien por ciento (100%) del gasto, así como todos los demás gastos y costos en que se incurra.
@@ -1788,17 +1786,35 @@ Ninguna maleza, basura, escombros, objetos o materiales de ningún tipo, plantes
 
 Servicio de distribución de gas; las tuberías para la distribución del servicio de gas serán de uso común de las UNIDADES INMOBILIARÍAS, sin embargo, el suministro de gas no es común, y será cobrado en relación al consumo individual da gas por cada UNIDAD INMOBILIARIA, cada a una da las cuales contará con un medidor independiente de consumo de gas.
 
+#### ARTICULO 43
+
+Las multas que imponga el P.H. GOLF GARDENS (P.H. ORIGINARIO) por actos u omisiones atribuibles a un PROPIETARIO, residente o invitado del P.H. GARDENIAS, se tramitarán de conformidad con este Reglamento y con la Ley 284 de 14 de febrero de 2022.
+
+1. Cuando el hecho sea cometido por un PROPIETARIO, residente o invitado, la multa se cargará a la UNIDAD INMOBILIARIA vinculada al infractor. Frente a la Administración, el pago corresponderá al PROPIETARIO titular de dicha UNIDAD INMOBILIARIA, sin perjuicio de su derecho a repetir contra el residente o invitado responsable.
+
+2. La Administración del P.H. GARDENIAS notificará al PROPIETARIO titular de la UNIDAD INMOBILIARIA y, de ser posible, al residente involucrado, dentro de los cinco (5) días hábiles siguientes a la recepción de la comunicación del P.H. ORIGINARIO, adjuntando los soportes correspondientes.
+
+3. El PROPIETARIO titular o el residente involucrado podrá presentar descargos por escrito ante la Junta Directiva del P.H. GARDENIAS dentro de los diez (10) días hábiles siguientes a la notificación. Si el hecho fuere atribuido a un invitado, los descargos se presentarán por conducto del PROPIETARIO titular o del residente vinculado a la UNIDAD INMOBILIARIA. La Junta Directiva resolverá de forma motivada en un plazo máximo de quince (15) días hábiles.
+
+4. Si el PROPIETARIO titular o el residente involucrado no estuviere conforme con la decisión, podrá apelar directamente ante la Junta Directiva del P.H. ORIGINARIO, conforme a su reglamento y a la Ley 284 de 14 de febrero de 2022. En caso de invitado, la apelación se presentará por conducto del PROPIETARIO titular o del residente vinculado a la UNIDAD INMOBILIARIA.
+
+5. El plazo para pagar será de treinta (30) días calendario contados desde la notificación. El cobro se reflejará en el estado de cuenta de la UNIDAD INMOBILIARIA correspondiente. Si se presentan descargos en tiempo oportuno, el plazo de pago quedará suspendido hasta que se emita la decisión respectiva.
+
+6. Vencido el plazo sin pago, no se aplicará recargo a la multa. Sin perjuicio de ello, podrán imponerse las restricciones de uso de servicios y bienes comunes permitidas por la Ley 284 de 14 de febrero de 2022, con exclusión del servicio de agua y de los servicios esenciales, y ejercerse las acciones de cobro correspondientes.
+
+7. El PROPIETARIO podrá solicitar arreglo de pago de la multa, sin recargo, en los términos que apruebe la Junta Directiva. Pagada la totalidad de la deuda o cumplido el arreglo, se levantarán las restricciones aplicadas.
+
 ## CAPITULO IV: ASAMBLEA DE PROPIETARIOS
 
-#### ARTICULO 43
+#### ARTICULO 44
 La Asamblea de Propietarios es el organismo supremo dentro del Régimen de Propiedad Horizontal y están formados por todos los PROPIETARIOS de las UNIDADES INMOBILIARIAS que conforman el respectivo P.H. GARDENIAS.
 
 Cada propietario tendrá un (1) voto por cada UNIDAD INMOBILIARIA, de su propiedad y podrá comparecer a las deliberaciones personalmente o por medio de representante o apoderado. Cuando una UNIDAD INMOBILIARIA, pertenezca a más de una (1) persona natural o jurídica, dicha propiedad tendrá derecho a una (1) sola representación o voto en la Asamblea de Propietarios debiendo escogerse o informarse quien ejercerá la representación de dicha UNIDAD INOBILIARIA.
 
-#### ARTICULO 44
+#### ARTICULO 45
 La Asamblea de Propietarios tendrá a su cargo, y será responsable por la Administración, régimen disciplinario y conservación de los BIENES COMUNES, así como del ahorro, a fin de contar con los fondos para la preservación del bien común, y no el lucro. Para estos efectos, la Asamblea de Propietarios será representada por la Junta Directiva.
 
-#### ARTICULO 45
+#### ARTICULO 46
 La Asamblea de Propietarios tendrá todos aquellas funciones y facultades que la Ley o este Reglamento de Propiedad no le atribuyan a la Junta Directiva, a los Dignatarios, al Comité Arquitectónico, al Administrador, y en especial, las siguientes:
 
 1. Reunirse por lo menos una vez al año, a más tardar el día quince (15) de mayo o el día hábil siguiente, en sesión ordinaria; y en sesión extraordinaria, tantas veces como las circunstancias lo requieran, siempre que así lo solicite el Presidente, cualquier miembro de la Junta Directiva, el Administrador o, por lo menos veinte por ciento (20%) de los PROPIETARIOS que se encuentren al día en el pago de las Cuotas de Gastos Comunes y demás obligaciones financieras.
@@ -1809,10 +1825,10 @@ La Asamblea de Propietarios tendrá todos aquellas funciones y facultades que la
 6. Reformar el reglamento de copropiedad.
 7. Autorizar la ejecución de obras, mejoras o nuevas edificaciones oprobadas por el Comité Arquitectónico, que afecten o vayan a constituir BIENES COMUNES, e imponer las cuotas extraordinarias que se requieren para la ejecución de dichas obras.
 
-#### ARTICULO 46
+#### ARTICULO 47
 La convocatoria para las sesiones de la Asamblea de Propietarios, ya sean éstas ordinarias o extraordinarias, deberá estar hecha con no menos de diez (10) ni más de veinte (20) días hábiles de antelación a la fecha en que debe efectuarse la reunión y se hará por medio de carta, telegrama, tax o cualquier otro medio electrónico dirigido a la dirección que haya indicado cada propietario o por entrega de la citación en la UNIDAD INMOBILARIA correspondiente. Se entiende efectuada la notificación, por la simple entrega de la notificación a la persona que siendo mayor de edad, sea ocupante de la UNIDAD INMOBILARIA o trabajo para el PROPIETARIO.
 
-#### ARTICULO 47
+#### ARTICULO 48
 Para construir quórum en una Asamblea de Propietarios, sea ordinaria o extraordinaria, será necesaria la presencia de, por lo menos, más de la mitad de los PROPIETARIOS, independientemente del número de las UNIDADES INMOBILIARIAS que pertenezcan a cada uno de ellos.
 
 Si transcurrida una hora siguiente a la fijada en la convocatoria no hubiera el quórum requerido, el secretario o quien haga sus veces levantará un acta en que conste tal circunstancia y el número, nombre y porcentaje de participación de los asistentes.
@@ -1821,21 +1837,21 @@ Cumplida esta formalidad, la Asamblea podrá sesionar en segunda convocatoria co
 
 En todas las reuniones de la Asamblea de Propietarios, cualquier PROPIETARIO puede hacerse representar por un mandatario que no necesariamente deberá ser propietario a su vez, y que podrá ser designado por documento público o privado.
 
-#### ARTICULO 48
+#### ARTICULO 49
 Las decisiones de la Asamblea de Propietarios, para que surtan efecto legal y sean de obligatorio cumplimiento, deberán ser aprobadas conforme a los porcentajes y requisitos establecidos en la Ley 284 de 14 de febrero de 2022 y este Reglamento, según la materia de que se trate.
 
 En sesiones extraordinarias no se podrá decidir sobre aquellos asuntos distintos para los cuales haya sido convocada la reunión.
 
 ## CAPITULO V: JUNTA DIRECTIVA
 
-#### ARTICULO 49:
+#### ARTICULO 50:
 La Junta Directiva estará formada por no menos de tres (3) miembros, un Presidente, un Secretario, un Tesorero; quienes serán elegidos anualmente en la sesión ordinaria de la Asamblea de Propietarios y ejercerán sus cargos hasta tanto sus sucesores sean elegidos, tomen posesión y sus reemplazos consten inscritos en el Registro Público.
 
 Los miembros de la Junta Directiva serán de libre nombramiento y remoción de la Asamblea de Propietarios, mediante el voto de, por lo menos el cincuenta y un por ciento (51%) de la totalidad de los propietarios.
 
 Los directores no recibirán compensación alguna por el desempeño de sus cargos.
 
-#### ARTICULO 50
+#### ARTICULO 51
 La Junta Directiva será responsable por cumplir y hacer cumplir las decisiones de la Asamblea de Propietarios en lo referente a la administración y conservación de los BIENES COMUNES y tendrá, además, las siguientes funciones y facultades:
 
 1. Nombrar y remover de su cargo, al Administrador del P.H. GARDENIAS y establecer la remuneración y demás términos y condiciones relativas a sus funciones. Es entendido que el Administrador podrá ser una persona jurídica en cuyo caso ésto deberá designar a un individuo quien ejercerá sus funciones y cumplirá con las obligaciones que la ley o este Reglamento establece en relación con el Administrador.
@@ -1855,10 +1871,10 @@ La Junta Directiva será responsable por cumplir y hacer cumplir las decisiones 
 15. Todas aquellas que le confiere la ley 284 del 14 de febrero de 2022, en su artículo 80.
 16. Cualquiera otra función que le asigne la Asamblea de Propietarios.
 
-#### ARTICULO 51
+#### ARTICULO 52
 La Junta Directiva deberá reunirse en sesión ordinaria por lo menos una vez cada tres (3) meses calendarios en el lugar, hora y fecha que determine el Presidente. Además, deberá reunirse en sesión extraordinaria o en cualquier ocasión cundo lo disponga la Junta Directiva por resolución o cuando el Presidente o el Administrador lo consideren conveniente.
 
-#### ARTICULO 52
+#### ARTICULO 53
 Las convocatorias para las sesiones ordinarios o extraordinarios de la Junta Directiva, las efectuará el Presidente, u otro miembro de la Junta Directiva mediante aviso escrito entregado personalmente, enviado por correo certificado o correo electrónico a cada director, no menos de cinco (5) días ni más de quince (15) días calendario de anticipación. En las sesiones extraordinarias únicamente podrán considerarse los asuntos que hayan sido objeto de la convocatoria.
 
 #### ARTICULO 53

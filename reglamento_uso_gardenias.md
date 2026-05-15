@@ -46,7 +46,7 @@ Los cambios de horarios de uso de áreas comunes deberán notificarse con no men
 #### Artículo 5.
 Son áreas comunes de las unidades inmobiliarias de uso residencial las siguientes: Garita del proyecto, parque con gazebo oficina de administración, y demás bienes comunes establecidos en el Reglamento de Copropiedad del P.H. GARDENIAS (P.H. DERIVADO).
 
-Cada propietario o arrendatario tendrá libre acceso a las áreas comunes que forman parte de su Propiedad, sin más limitaciones que las que imponga el presente Reglamento de Uso, siempre y cuando estén al día con el pago de la cuota de mantenimiento sea ordinaria o extraordinaria.
+Cada propietario o arrendatario tendrá libre acceso a las áreas comunes que forman parte de su Propiedad, sin más limitaciones que las que imponga el presente Reglamento de Uso. El acceso a áreas comunes solo podrá ser restringido conforme a la Ley 284 después de que el propietario incurra en dos (2) meses o más de mora comprobada. Toda restricción de acceso será precedida de notificación escrita con plazo mínimo de quince (15) días hábiles para regularizar la deuda, así como del derecho a acudir a instancias de conciliación o vías judiciales conforme a la Ley.
 
 Cada PROPIETARIO deberá contribuir a las expensas necesarias para sufragar los gastos comunes tanto del P.H. ORIGINARIO como del P.H. GARDENIAS, mediante el pago de una cuota mensual de gastos comunes, la cual será sufragada por partes iguales por cada UNIDAD INMOBILIARIA que conforma el P.H. GARDENIAS, y destinada, en el siguiente orden de prioridad, por ser éste un PH Derivado del PH ORIGINARIO GOLF GARDENS:
 
@@ -66,7 +66,7 @@ Si confirmada la responsabilidad persiste el monto adeudado, el propietario o re
 Si luego de transcurridos dos (2) meses desde el vencimiento del plazo de pago la obligación permanece impaga, la Junta Directiva, mediante decisión documentada, podrá autorizar las restricciones permitidas por la Ley y recurrir a la vía judicial para recuperar el monto correspondiente.
 
 #### Artículo 3.
-Queda terminantemente prohibido dar clases en las áreas comunes a personas ajenas al P.H., a menos que sea aprobado por la administración en anuencia de la Junta Directiva.
+Se permite el uso de áreas comunes para actividades no comerciales, tales como ejercicio grupal, reuniones, actividades infantiles y similares, sujeto a las siguientes reglas de convivencia: a) Horario de 7:00 a.m. a 7:00 p.m. como máximo; b) Respeto a los límites de ruido establecidos en el Artículo 35; c) Aforo máximo según capacidad de seguridad del área; d) Supervisión de adulto residente si hay menores de edad; e) Notificación escrita a la Administración con mínimo cuarenta y ocho (48) horas de anticipación. Quedan prohibidas actividades comerciales o que generen lucro.
 
 #### Artículo 4.
 Es obligación de los Propietarios y Residentes mantener las áreas sociales al igual que los baños en perfecto orden y limpieza. Estos son directamente responsables por ello.
@@ -122,7 +122,7 @@ Se observarán las siguientes reglas en cuanto a los estacionamientos de las ár
 
 2. Vehículos autorizados: los vehículos autorizados dentro del P.H. son los vehículos estándares para pasajeros, incluyendo, pero no de manera taxativa, automóviles, furgonetas para pasajeros diseñadas para acomodar diez o menos personas, motocicletas, vehículos todo terreno y camionetas con una clasificación del fabricante o capacidad de carga útil de una tonelada o menos. Estos vehículos sólo pueden ser estacionados en los espacios de estacionamiento asignados para la unidad inmobiliaria, , sin obstruir o cerrar, en ningún momento, los accesos comunes de los peatones o demás vehículos ni las entradas o salidas del P.H. La velocidad máxima permitida dentro del P.H. GARDENIAS (P.H. DERIVADO) es de 20km/hr.
 
-3. Vehículos Restringidos dentro del P.H.: a) Vehículos tipo comerciales (es decir, camiones de estacas, camiones cisternas, volquetas, furgonetas de techo alto, concreteras, limosinas, etc.); b) Buses o furgonetas diseñadas para acomodar más de diez personas; c) Vehículos que tengan más de dos ejes; d) Remolques, vehículos inutilizables o piezas de vehículos; y e) Aeronaves, lanchas, botes y otros vehículos similares o cualquier vehículo o equipo de vehículo considerado un peligro por la Junta Directiva. Los vehículos restringidos no podrán ser estacionados, almacenados ni mantenidos en ninguna calle pública o privada dentro, adyacente o visible desde la propiedad o cualquier otra área de estacionamiento del Área Común, excepto por breves períodos para cargar, descargar, realizar entregas o reparaciones de emergencia. Si un vehículo califica tanto como vehículo autorizado y vehículo restringido, entonces se presume que el vehículo es un vehículo restringido, a menos que el vehículo sea clasificado expresamente como un vehículo autorizado por escrito por la Junta Directiva.
+3. Vehículos Restringidos dentro del P.H.: a) Vehículos tipo comerciales (es decir, camiones de estacas, camiones cisternas, volquetas, furgonetas de techo alto, concreteras, limosinas, etc.); b) Buses o furgonetas diseñadas para acomodar más de diez personas; c) Vehículos que tengan más de dos ejes; d) Remolques, vehículos inutilizables o piezas de vehículos; e) Aeronaves, lanchas, botes y otros vehículos similares; y f) Vehículos que excedan los siguientes parámetros técnicos: peso total superior a 4,500 kg, largo superior a 6.5 metros, alto superior a 2.5 metros, o que posean carrocería inflamable o tóxica. Toda restricción de vehículo basada en estos criterios técnicos será notificada por escrito al propietario, indicando la especificación técnica que motiva la restricción. Los vehículos restringidos no podrán ser estacionados, almacenados ni mantenidos en ninguna calle pública o privada dentro, adyacente o visible desde la propiedad o cualquier otra área de estacionamiento del Área Común, excepto por breves períodos para cargar, descargar, realizar entregas o reparaciones de emergencia. Si un vehículo califica tanto como vehículo autorizado y vehículo restringido, entonces se presume que el vehículo es un vehículo restringido, a menos que el vehículo sea clasificado expresamente como un vehículo autorizado por escrito por la Junta Directiva.
 
 4. Sobre los estacionamientos de las unidades inmobiliarias de uso residencial:
 
@@ -133,7 +133,7 @@ Se observarán las siguientes reglas en cuanto a los estacionamientos de las ár
 ## III. ÁREA DE PARQUE INFANTIL CON GAZEBO
 
 #### Artículo 11.
-El P.H. GARDENIAS cuenta con un parque infantil con gazebo, dicha área es de uso exclusivo para los hijos de los propietarios o residentes, quienes podrán estar acompañados regularmente de un máximo de otros cuatro (4) niños invitados y obligatoriamente acompañados y custodiados por un adulto residente, responsable por los niños.
+El P.H. GARDENIAS cuenta con un parque infantil con gazebo, dicha área es de uso exclusivo para los hijos de los propietarios o residentes. El número máximo de niños en el área será diez (10) en cualquier momento, incluyendo hijos de propietarios e invitados. Es obligatoria la supervisión de un adulto residente, siendo la proporción mínima un adulto por cada cinco (5) niños. Bajo ninguna circunstancia se permitirá que menores permanezcan en el área sin supervisión de adulto responsable.
 
 En caso de producirse daños, la administración se encargará de las reparaciones y/o aseos necesarios, con cargo al propietario. Estas reparaciones podrán ser cobradas a través del gasto común.
 
@@ -183,11 +183,15 @@ EL HORARIO de mudanzas es de lunes a viernes desde las 8:00 a.m hasta las 4:00 p
 #### Artículo 19.
 El propietario de la unidad inmobiliaria, deberá estar presente durante la mudanza o asignar una persona responsable mediante una nota dirigida a la Administración, en donde se indique el nombre completo, cédula o pasaporte y la identificación de la unidad inmobiliaria correspondiente.
 
-#### Artículo 20.
-Todo propietario o residente, sea este arrendatario o no, debe consignar la suma no reembolsable de cien dólares (US$100.00) para cubrir posibles daños durante la mudanza. El propietario o residente, no obstante, es responsable por la totalidad de los daños que pudiera ocasionar, más allá de lo que cubra su depósito.
-
 #### Artículo 21.
-La Junta Directiva se reserva el derecho a cancelar la mudanza, en pro del bienestar general del P.H.
+La Junta Directiva podrá cancelar una mudanza programada únicamente por las siguientes causales específicas y objetivas:
+
+a) Riesgo de seguridad o daño estructural verificado por perito;
+b) Incumplimiento de documentación requerida conforme este Reglamento (notificación oportuna, identificación responsable);
+c) Violación comprobada de horarios establecidos en el Artículo 18;
+d) Constancia de responsabilidad en daños previos no pagados.
+
+Cualquier decisión de cancelación deberá notificarse por escrito al propietario con al menos cinco (5) días hábiles de anticipación, indicando la causal específica y otorgando el derecho de presentar descargos.
 
 Todo propietario o residente, sea arrendatario o no, será responsable de desechar todo el material y empaque de su mudanza. Está prohibido dejar cajetas, plásticos, papel envoltorio y demás en los depósitos de basura de las unidades inmobiliarias y en áreas comunes.
 
@@ -350,6 +354,6 @@ Todo propietario o residente tendrá derecho a presentar peticiones respetuosas 
 | Estacionarse en los estacionamientos reservados para visitas o en área común | $75.00 |
 | Arrojar basura en las áreas comunes | $100.00 |
 | Exceso de ruidos o sonidos altos que perturben a los demás residentes | $100.00 |
-| No asistir a las Asambleas de Propietarios | $150.00 |
+| No asistir a las Asambleas de Propietarios | 80% de la cuota de mantenimiento mensual del propietario (máximo $200.00) |
 | No informar oportunamente sobre el alquiler de una unidad inmobiliaria | $75.00 |
 

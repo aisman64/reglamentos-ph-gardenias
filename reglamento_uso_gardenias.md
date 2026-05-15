@@ -279,7 +279,7 @@ Los PROPIETARIOS deberán sufragar los gastos de administración, conservación,
 
 2. Los gastos de conservación y mantenimiento de los bienes comunes del P.H. GARDENIAS.
 
-Las cuotas de mantenimiento serán cubiertas durante los DIEZ (10) primeros días de cada mes. A partir del día 11 (once) del mes se aplicará automáticamente un recargo de diez por ciento (10%) sobre la suma vencida, conforme a la Ley 284 de 14 de febrero de 2022. La Junta Directiva notificará por escrito al propietario de la aplicación del recargo.
+Las cuotas de mantenimiento serán cubiertas durante los DIEZ (10) primeros días de cada mes. A partir del día 11 (once) del mes se aplicará automáticamente un recargo de diez por ciento (10%) sobre la suma vencida, conforme a la Ley 284 de 14 de febrero de 2022. Para efectos del cálculo de morosidad, se tomará como fecha de pago la fecha en que la transacción quede reflejada en los estados bancarios de las cuentas del P.H. GARDENIAS. La Junta Directiva notificará por escrito al propietario de la aplicación del recargo.
 
 Los pagos podrán hacerse por depósito directo, transferencia local o internacional y por cualquier otro medio de pago autorizado por la Administración que permita trazabilidad y emisión de recibo.
 

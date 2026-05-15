@@ -1621,7 +1621,7 @@ Cada PROPIETARIO deberá contribuir a las expensas necesarias para sufragar los 
 
 Estos gastos comunes que los PROPIETARIOS de cada UNIDAD INMOBILIARIA, sufragarán incluirán la contratación de seguros que incluya como mínimo, coberturas contra incendio, terremotos, incendios causados por terremotos, así como cobertura contra desastres naturales, con extensión de cobertura sobre todo el P.H. GARDENIAS.
 
-La cuota de gastos comunes deberá ser cubierta dentro de los DIEZ (10) primeros días calendarios de cada mes. En caso de atraso posterior a este plazo, se aplicarán recargos por mora conforme a lo establecido en el Reglamento de Uso del P.H. GARDENIAS y la Ley 284 de 14 de febrero de 2022.
+La cuota de gastos comunes deberá ser cubierta dentro de los DIEZ (10) primeros días calendarios de cada mes. En caso de atraso posterior a este plazo, se aplicarán recargos por mora conforme a lo establecido en el Reglamento de Uso del P.H. GARDENIAS y la Ley 284 de 14 de febrero de 2022. Para efectos del cálculo de morosidad, se tomará como fecha de pago la fecha en que la transacción quede reflejada en los estados bancarios de las cuentas del P.H. GARDENIAS.
 
 ##### PARAGRAFO 1
 Ningún PROPIETARIO podrá liberarse de su obligación de contribuir con la Cuota de Gastos Comunes por renuncia del uso, goce o abandono de LA UNIDAD INMOBILIARIA, ni de los bienes y servicios comunes. 

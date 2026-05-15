@@ -46,7 +46,7 @@ Los cambios de horarios de uso de áreas comunes deberán notificarse con no men
 #### Artículo 5.
 Son áreas comunes de las unidades inmobiliarias de uso residencial las siguientes: Garita del proyecto, parque con gazebo oficina de administración, y demás bienes comunes establecidos en el Reglamento de Copropiedad del P.H. GARDENIAS (P.H. DERIVADO).
 
-Cada propietario o arrendatario tendrá libre acceso a las áreas comunes que forman parte de su Propiedad, sin más limitaciones que las que imponga el presente Reglamento de Uso. El acceso a áreas comunes solo podrá ser restringido conforme a la Ley 284 después de que el propietario incurra en dos (2) meses o más de mora comprobada. Toda restricción de acceso será precedida de notificación escrita con plazo mínimo de quince (15) días hábiles para regularizar la deuda, así como del derecho a acudir a instancias de conciliación o vías judiciales conforme a la Ley.
+Cada propietario o arrendatario tendrá libre acceso a las áreas comunes que forman parte de su Propiedad, sin más limitaciones que las que imponga el presente Reglamento de Uso. El acceso a áreas comunes solo podrá ser restringido conforme a la Ley 284 después de que el propietario incurra en dos (2) meses o más de mora comprobada.
 
 Cada PROPIETARIO deberá contribuir a las expensas necesarias para sufragar los gastos comunes tanto del P.H. ORIGINARIO como del P.H. GARDENIAS, mediante el pago de una cuota mensual de gastos comunes, la cual será sufragada por partes iguales por cada UNIDAD INMOBILIARIA que conforma el P.H. GARDENIAS, y destinada, en el siguiente orden de prioridad, por ser éste un PH Derivado del PH ORIGINARIO GOLF GARDENS:
 
@@ -66,7 +66,7 @@ Si confirmada la responsabilidad persiste el monto adeudado, el propietario o re
 Si luego de transcurridos dos (2) meses desde el vencimiento del plazo de pago la obligación permanece impaga, la Junta Directiva, mediante decisión documentada, podrá autorizar las restricciones permitidas por la Ley y recurrir a la vía judicial para recuperar el monto correspondiente.
 
 #### Artículo 3.
-Se permite el uso de áreas comunes para actividades no comerciales, tales como ejercicio grupal, reuniones, actividades infantiles y similares, sujeto a las siguientes reglas de convivencia: a) Horario de 7:00 a.m. a 7:00 p.m. como máximo; b) Respeto a los límites de ruido establecidos en el Artículo 35; c) Aforo máximo según capacidad de seguridad del área; d) Supervisión de adulto residente si hay menores de edad; e) Notificación escrita a la Administración con mínimo cuarenta y ocho (48) horas de anticipación. Quedan prohibidas actividades comerciales o que generen lucro.
+Queda terminantemente prohibido dar clases en las áreas comunes a personas ajenas al P.H., a menos que sea aprobado por la administración en anuencia de la Junta Directiva.
 
 #### Artículo 4.
 Es obligación de los Propietarios y Residentes mantener las áreas sociales al igual que los baños en perfecto orden y limpieza. Estos son directamente responsables por ello.
@@ -126,14 +126,16 @@ Se observarán las siguientes reglas en cuanto a los estacionamientos de las ár
 
 4. Sobre los estacionamientos de las unidades inmobiliarias de uso residencial:
 
-    1. Sobre los estacionamientos de los propietarios o arrendatarios residentes: todos los vehículos de propiedad de un propietario de unidad inmobiliaria para uso residencial deberán ser estacionados en el espacio de estacionamiento residencial asignado a tal propietario por el promotor. Sobre tales espacios se deberán observar las siguientes restricciones: a) Ningún propietario de unidad inmobiliaria para uso residencial podrá estacionarse en las áreas de estacionamiento en la calle que están designadas para visitas; b) Ningún propietario podrá realizar, dentro de la PROPIEDAD, ni siquiera en el espacio de estacionamiento residencial asignado a tal propietario, labores de reparación, mantenimiento o restauración de vehículo alguno, incluyendo lavado del vehículo; c); Ningún espacio de estacionamiento podrá ser utilizado como depósito; y h) Bajo ninguna circunstancia se podrán mantener en los espacios de estacionamiento explosivos, fuegos artificiales, material inflamable tal como gasolina, kerosén, aceite, pinturas de aceite, solventes, etc.
+    1. Sobre los estacionamientos de los propietarios o arrendatarios residentes: todos los vehículos de propiedad de un propietario de unidad inmobiliaria para uso residencial deberán ser estacionados en el espacio de estacionamiento residencial asignado a tal propietario por el promotor. Sobre tales espacios se deberán observar las siguientes restricciones: a) Ningún propietario de unidad inmobiliaria para uso residencial podrá estacionarse en las áreas de estacionamiento en la calle que están designadas para visitas; b) Se permite el lavado de vehículos y la realización de mantenimientos ligeros dentro de la PROPIEDAD, incluyendo en el espacio de estacionamiento residencial asignado al propietario, siempre que no se obstruyan áreas comunes ni se generen derrames o condiciones de riesgo; c); Ningún espacio de estacionamiento podrá ser utilizado como depósito; y h) Bajo ninguna circunstancia se podrán mantener en los espacios de estacionamiento explosivos, fuegos artificiales, material inflamable tal como gasolina, kerosén, aceite, pinturas de aceite, solventes, etc.
+
+    Para efectos de este Reglamento, se entiende por mantenimiento ligero las labores menores de rutina que no impliquen desarme mayor del vehículo, uso de equipos especializados ni trabajos que generen ruido excesivo, residuos peligrosos o afectación a terceros, tales como cambio de limpiaparabrisas, cambio de bombillos, revisión y calibración de presión de llantas, cambio de batería, reemplazo de fusibles, cambio de aceite y cambio de filtros de aceite, aire y cabina.
 
     2. Sobre los estacionamientos de visita: los visitantes o terceros, tales como repartidores a domicilio, solamente podrán usar los estacionamientos destinados y marcados para tal fin. Todos los propietarios y residentes tienen la obligación de indicar a sus respectivas visitas que deben seguir las instrucciones que al respecto del estacionamiento les den en la garita de entrada o cualquiera de los conserjes y/o personal de seguridad; b) no se permitirá que taxis, buses colegiales, o cualquier otro medio de transporte, que esté esperando a un propietario o arrendatario residente, use los estacionamientos de visitas mientras espera, ni tampoco que obstaculice las calles de acceso al P.H. por más de diez (10) minutos; c) Los vehículos que transporten bienes de algún propietario para su descarga deberán permanecer en todo momento fuera del área de estacionamiento del P.H.; y d) Los propietarios y residentes, sean arrendatarios o no, tienen prohibido utilizar los estacionamientos de visita para sus vehículos personales.
 
 ## III. ÁREA DE PARQUE INFANTIL CON GAZEBO
 
 #### Artículo 11.
-El P.H. GARDENIAS cuenta con un parque infantil con gazebo, dicha área es de uso exclusivo para los hijos de los propietarios o residentes. El número máximo de niños en el área será diez (10) en cualquier momento, incluyendo hijos de propietarios e invitados. Es obligatoria la supervisión de un adulto residente, siendo la proporción mínima un adulto por cada cinco (5) niños. Bajo ninguna circunstancia se permitirá que menores permanezcan en el área sin supervisión de adulto responsable.
+El P.H. GARDENIAS cuenta con un parque infantil con gazebo, dicha área es de uso exclusivo para los residentes y sus invitados.
 
 En caso de producirse daños, la administración se encargará de las reparaciones y/o aseos necesarios, con cargo al propietario. Estas reparaciones podrán ser cobradas a través del gasto común.
 
@@ -141,17 +143,19 @@ Normas para el Uso de Área de parque infantil y gazebo:
 
 1. El Horario para el uso del Área del parque infantil y gazebo es de 7:00 a.m. a 7:00 p.m.
 
-2. Los niños siempre deberán estar acompañados de un adulto responsable (padres, nanas, niñeras) que será el único garante de la seguridad y del comportamiento que tengan.
+2. Los niños siempre deberán estar acompañados de un adulto responsable (padres, nanas, niñeras) que será el único garante de la seguridad y del comportamiento que tengan. Bajo ninguna circunstancia se permitirá que menores permanezcan en el área sin supervisión de adulto responsable.
 
-3. Se recomienda que los muebles y juegos de niños sean utilizados de acuerdo con la edad adecuada para cada uno de éstos.
+3. El número máximo de niños en el área será diez (10) en cualquier momento, incluyendo hijos de propietarios e invitados. La proporción mínima de supervisión será de un (1) adulto por cada cinco (5) niños.
 
-4. El residente de la unidad inmobiliaria donde viva el niño, y Propietario de dicha unidad, será responsable de cubrir el costo de cualquier daño que los niños puedan causar al área, mobiliario y enseres.
+4. Se recomienda que los muebles y juegos de niños sean utilizados de acuerdo con la edad adecuada para cada uno de éstos.
 
-5. Cuando en el área para los niños haya muebles o juegos propiedad del P.H., estos solo deberán ser utilizados por los niños y no está permitido que los adultos los utilicen.
+5. El residente de la unidad inmobiliaria donde viva el niño, y Propietario de dicha unidad, será responsable de cubrir el costo de cualquier daño que los niños puedan causar al área, mobiliario y enseres.
 
-6. Todo Propietario o Residente debe comprometerse a enseñar a los niños para que tengan buena conducta, no dañen los muebles y boten la basura que produzcan en los canastos o basureros colocados para tal efecto.
+6. Cuando en el área para los niños haya muebles o juegos propiedad del P.H., estos solo deberán ser utilizados por los niños y no está permitido que los adultos los utilicen.
 
-7. No se permite fumar ni ingerir bebidas alcoholicas en el área de juego de niños y adyacentes.
+7. Todo Propietario o Residente debe comprometerse a enseñar a los niños para que tengan buena conducta, no dañen los muebles y boten la basura que produzcan en los canastos o basureros colocados para tal efecto.
+
+8. No se permite fumar ni ingerir bebidas alcoholicas en el área de juego de niños y adyacentes.
 
 ## IV. ANIMALES DOMÉSTICOS
 
@@ -186,12 +190,12 @@ El propietario de la unidad inmobiliaria, deberá estar presente durante la muda
 #### Artículo 21.
 La Junta Directiva podrá cancelar una mudanza programada únicamente por las siguientes causales específicas y objetivas:
 
-a) Riesgo de seguridad o daño estructural verificado por perito;
-b) Incumplimiento de documentación requerida conforme este Reglamento (notificación oportuna, identificación responsable);
+a) Riesgo de seguridad o daño estructural;
+b) Incumplimiento de documentación requerida conforme este Reglamento (identificación responsable);
 c) Violación comprobada de horarios establecidos en el Artículo 18;
 d) Constancia de responsabilidad en daños previos no pagados.
 
-Cualquier decisión de cancelación deberá notificarse por escrito al propietario con al menos cinco (5) días hábiles de anticipación, indicando la causal específica y otorgando el derecho de presentar descargos.
+Cualquier decisión de cancelación deberá notificarse por escrito al propietario, indicando la causal específica y otorgando el derecho de presentar descargos.
 
 Todo propietario o residente, sea arrendatario o no, será responsable de desechar todo el material y empaque de su mudanza. Está prohibido dejar cajetas, plásticos, papel envoltorio y demás en los depósitos de basura de las unidades inmobiliarias y en áreas comunes.
 
@@ -354,6 +358,6 @@ Todo propietario o residente tendrá derecho a presentar peticiones respetuosas 
 | Estacionarse en los estacionamientos reservados para visitas o en área común | $75.00 |
 | Arrojar basura en las áreas comunes | $100.00 |
 | Exceso de ruidos o sonidos altos que perturben a los demás residentes | $100.00 |
-| No asistir a las Asambleas de Propietarios | 80% de la cuota de mantenimiento mensual del propietario (máximo $200.00) |
+| No asistir a las Asambleas de Propietarios | $173.00 |
 | No informar oportunamente sobre el alquiler de una unidad inmobiliaria | $75.00 |
 

@@ -1699,7 +1699,7 @@ Todo PROPIETARIO tiene derecho al uso y disfrute de los Bienes y Cosas Comunes, 
 #### ARTICULO 39
 Los PROPIETARIOS están obligados entre otras cosas previstas en este Reglamento a lo siguiente: 
 
-1. Pagar los cuotas de gastos comunes dentro de los primeros cinco (5) días calendarios de cada mes.
+1. Pagar los cuotas de gastos comunes dentro de los primeros diez (10) días calendarios de cada mes.
 2. Reparar los daños o desperfectos en su UNIDAD INMOBILIARIA, especialmente cuando afecten o pudiesen afectar a otros, otorgándose para tales efectos, un plazo no mayor de treinta (30) días calendario.
 3. Cumplir con las obligaciones de este Reglamento, las Leyes, el Reglamento de Use del P.H. GARDENIAS y el Reglamento de Copropiedad del P.H. GOLF GARDENS (P.H. ORIGINARIO).
 4. A mantener, reparar, reemplazar o restaurar a sus propias expensas, todas las partes de su UNIDAD INMOBILIARIA, incluyendo sin limitaciones, calentadores, ventiladores, aires acondicionados y cualquier equipo que sea utilizado solo en su UNIDAD INMOBILIARIA, incluyendo los ventiladores de sus unidades de aire acondicionado, así como las ventanas, puertas, sus paredes interiores y exteriores, cercas, garajes, puertas, piso, techo. Todas estas reparaciones, reemplazos o restauraciones deben hacerse con los materiales y acabados, en estricto cumplimiento a lo aprobado por la Junta Directiva del P.H. GARDENIAS

@@ -380,16 +380,57 @@ Todo propietario o residente tendrá derecho a presentar peticiones respetuosas 
 
 | INFRACCIÓN | MULTA |
 | --- | --- |
-| Modificaciones de fachadas sin la previa aprobación del Comité Arquitectónico | $500.00 |
-| Colocar letreros de se vende / se alquila o cualquier material publicitario visible en las unidades | $200.00 |
-| Mascotas sueltas fuera de las unidades inmobiliarias | $75.00 |
-| No limpiar los desechos de las mascotas inmediatamente | $50.00 |
-| Falta de limpieza y no desechar la basura luego de mudanzas | $50.00 |
-| Exceder límite de invitados en el área social | $150.00 |
-| Retraso en el pago de la cuota de mantenimiento | Hasta 20% sobre monto vencido, conforme Ley |
-| Estacionarse en los estacionamientos reservados para visitas o en área común | $75.00 |
-| Arrojar basura en las áreas comunes | $100.00 |
-| Exceso de ruidos o sonidos altos que perturben a los demás residentes | $100.00 |
-| No asistir a las Asambleas de Propietarios | $173.00 |
+| Destinar la unidad inmobiliaria a uso no residencial o contrario a la ley | TBD |
+| Explotar unidades como hotel, apartahotel o actividad análoga de hospedaje | TBD |
 | No informar oportunamente sobre el alquiler de una unidad inmobiliaria | $75.00 |
+| No asistir a las Asambleas de Propietarios | $173.00 |
+| Retraso en el pago de la cuota de mantenimiento | Hasta 20% sobre monto vencido, conforme Ley |
+| Adulterar equipos de medición de una unidad inmobiliaria | TBD |
+| Incurrir en cualquier otra conducta no permitida por el reglamento | TBD |
+| Dar clases en áreas comunes a personas ajenas sin autorización previa | TBD |
+| Realizar juegos peligrosos en áreas sociales o no permitidas | TBD |
+| Exceso de ruidos o sonidos altos que perturben a los demás residentes | $100.00 |
+| Fumar o consumir tabaco en áreas comunes | TBD |
+| Permitir ingreso de vendedores ambulantes o repartidores de propaganda | TBD |
+| Exceder límite de invitados en el área social | $150.00 |
+| Ceder, subalquilar o transferir la reserva del gazebo a no residentes | TBD |
+| Usar por adultos los juegos o mobiliario destinados a niños | TBD |
+| Fumar o ingerir bebidas alcohólicas en área de parque infantil y adyacentes | TBD |
+| Mantener animales no domésticos o para fines alimenticios/comerciales | TBD |
+| Mantener más de dos mascotas por unidad sin autorización de Junta Directiva | TBD |
+| Mascotas sueltas fuera de las unidades inmobiliarias | $75.00 |
+| Permitir que menores de 12 años paseen mascotas sin adulto responsable | TBD |
+| Bañar o asear mascotas en estacionamientos, patio interno o áreas comunes | TBD |
+| No limpiar los desechos de las mascotas inmediatamente | $50.00 |
+| Estacionarse en los estacionamientos reservados para visitas o en área común | $75.00 |
+| Ocupar áreas comunes con remolques, casas móviles, lanchas o vehículos similares sin autorización | TBD |
+| Usar estacionamientos para fines distintos a su destino (depósito, habitación u otros) | TBD |
+| Obstaculizar la circulación interna con objetos, vehículos o materiales no permitidos | TBD |
+| Realizar mudanzas fuera de horarios autorizados o en días no permitidos | TBD |
+| Falta de limpieza y no desechar la basura luego de mudanzas | $50.00 |
+| Arrojar basura en las áreas comunes | $100.00 |
+| Arrojar materiales en cañerías o desagües que obstruyan el sistema | TBD |
+| Limpiar herramientas, preparar mezclas o verter desperdicios/pinturas en aceras o red pluvial | TBD |
+| Guardar materiales, herramientas o residuos de construcción en áreas comunes | TBD |
+| Colocar contenedores, leña, maquinaria o almacenamiento visible en patio frontal | TBD |
+| Permitir malezas, matorrales, basura o escombros en la unidad inmobiliaria | TBD |
+| Ejecutar construcciones, excavaciones, ampliaciones o reformas sin aprobaciones requeridas | TBD |
+| Alterar fachadas, techos, aleros, cercas, ventanas, puertas o acabados exteriores sin autorización | TBD |
+| Modificaciones de fachadas sin la previa aprobación del Comité Arquitectónico | $500.00 |
+| Construir piscinas dentro de unidades o patios sin autorización del Comité Arquitectónico | TBD |
+| Construir sobre losas/aleros o instalar mástiles/torres en áreas exteriores o comunes sin autorización | TBD |
+| Instalar balcones, toldas, cableados, aires, condensadores, plantas u otros equipos exteriores no autorizados | TBD |
+| Construir cercas, paredes o portones no contemplados en el diseño original o sin autorización | TBD |
+| Interferir o alterar instalaciones/patrones de drenaje sin aprobación escrita | TBD |
+| Usar electricidad o agua de áreas comunes para trabajos privados de remodelación | TBD |
+| Introducir o almacenar sustancias corrosivas, inflamables, infectas o peligrosas | TBD |
+| Montar u operar máquinas que causen daños o perturben la tranquilidad | TBD |
+| Colocar letreros de se vende / se alquila o cualquier material publicitario visible en las unidades | $200.00 |
+| Secar o asolear ropa en ventanas, balcones o lugares visibles | TBD |
+| Colocar carpas, bohíos, cobertizos o edificaciones anexas sin autorización | TBD |
+| Instalar alambres de púas, cercado eléctrico, vidrio molido u otros elementos similares | TBD |
+| Realizar actividades comerciales o industriales prohibidas dentro de las unidades | TBD |
+| Solicitar servicios personales a empleados del P.H. sin autorización del Administrador | TBD |
+| Colocar posters, letreros o dispositivos publicitarios visibles al público | TBD |
+| Usar porches, patios o balcones como depósito de materiales o artículos no permitidos | TBD |
 

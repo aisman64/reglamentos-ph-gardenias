@@ -37,7 +37,9 @@ Todo residente, sea arrendatario o propietario, está en la obligación de velar
 La Administración mantendrá una bitácora con los nombres de todos los propietarios y residentes (cuando no sean los mismos), con sus respectivos números de teléfono y direcciones de correo electrónico. La información aquí contenida será de carácter confidencial, y solamente se utilizará para enviar comunicaciones electrónicas sobre temas del residencial o para contacto en casos de urgencia. Todos los residentes tienen la responsabilidad de informar a la Administración cuando alguno de sus datos de contacto cambie, para mantener la base de datos actualizada y poder recibir las comunicaciones que se generen.
 
 ##### Parágrafo.
-La administración tendrá la potestad de tomar decisiones en cuestiones no reglamentadas, o que las mismas estén en discusión, al igual podrá cambiar sin previo aviso los horarios de uso de áreas comunes si le es necesario, sin previo aviso, al igual de tomar. De cambiar los horarios establecidos en este reglamento, se le notificara a cada propietario o residente del P.H.
+La Administración tendrá la potestad de tomar decisiones en cuestiones no reglamentadas, o que estén en discusión, siempre en apego a la Ley, al Reglamento de Copropiedad y al presente Reglamento de Uso.
+
+Los cambios de horarios de uso de áreas comunes deberán notificarse con no menos de cinco (5) días calendario de anticipación a los propietarios o residentes por los medios habituales de comunicación del P.H. Solo en casos de emergencia por seguridad, salud o riesgo inminente podrá aplicarse un cambio inmediato, el cual deberá ser informado por escrito dentro de las siguientes veinticuatro (24) horas.
 
 ## Reglas Generales Para Las Areas Comunes
 
@@ -55,9 +57,13 @@ Cada PROPIETARIO deberá contribuir a las expensas necesarias para sufragar los 
 #### Artículo 6.
 El Propietario o residente es responsable directo del comportamiento y acciones de cualquiera de sus invitados, quienes deberán estar acompañados por el propietario o residente en todo momento, y, en ese sentido, cualquier daño ocasionado a éstas será responsabilidad del propietario, o residente, sea este arrendatario o no. Lo anterior incluye también los daños y perjuicios que ocasionen los trabajadores y/o proveedores de servicios a las unidades inmobiliarias, lo que será responsabilidad de su propietario o arrendatario.
 
-Por ser estas áreas de uso diario común, cualquier reparación de estos daños deberán ser realizadas por la Administración del P.H. GARDENIAS (P.H. DERIVADO) para beneficio de todos, y el propietario responsable por dichos daños rembolsará todos y cada uno de los gastos en que deba incurrir la Administración para reponer el área común afectada sin posibilidad de objeción o rechazo alguno.
+Por ser estas áreas de uso común, cualquier reparación de estos daños será realizada por la Administración del P.H. GARDENIAS (P.H. DERIVADO) para beneficio de todos.
 
-El Propietario responsable contará con 48 horas, luego de recibir el listado de gastos incurridos por la Administración, para rembolsar dichos montos. Si pasado ese término, el Propietario o Residente no ha cancelado su obligación, la Administración aplicará un recargo del diez por ciento (10%) mensual a dicho monto hasta que el mismo sea cancelado sin posibilidad de arreglos de pago. Si luego de transcurridos dos (2) meses de la presentación del listado de gastos incurridos, el Propietario o Residente continúa rechazando su obligación de pago, por la razón que sea, la Administración podrá recurrir a la vía judicial para recuperar dicho monto y restringirá el uso al propietario o residente el área social y/o desactivar el uso del control de acceso al P.H., sin que ello precise de autorización expresa de la Junta Directiva del P.H.
+Para determinar el origen y monto de los daños, la Administración contará con un perito idóneo y notificará por escrito al propietario o residente presuntamente responsable, adjuntando el detalle de gastos y evidencias. El propietario o residente podrá presentar objeciones y pruebas de descargo dentro de un plazo de diez (10) días hábiles.
+
+Si confirmada la responsabilidad persiste el monto adeudado, el propietario o residente contará con treinta (30) días calendario desde la notificación final para rembolsar los gastos. Vencido ese plazo, la Junta Directiva podrá aplicar un recargo de hasta veinte por ciento (20%) sobre el monto adeudado e iniciar las medidas de cobro previstas en la Ley y en este Reglamento.
+
+Si luego de transcurridos dos (2) meses desde el vencimiento del plazo de pago la obligación permanece impaga, la Junta Directiva, mediante decisión documentada, podrá autorizar las restricciones permitidas por la Ley y recurrir a la vía judicial para recuperar el monto correspondiente.
 
 #### Artículo 3.
 Queda terminantemente prohibido dar clases en las áreas comunes a personas ajenas al P.H., a menos que sea aprobado por la administración en anuencia de la Junta Directiva.
@@ -243,7 +249,9 @@ colocar letreros de se vende o alquila o cualquier material publicitario visible
 En el caso de alquilar su unidad inmobiliaria, todo propietario está en obligación de notificar a la Junta Directiva por conducto de la Administración, el nombre del arrendatario que estará alquilando la unidad inmobiliaria. Si un propietario entrega a la administración y alquiler de su unidad inmobiliaria a una agencia de bienes raíces deberán entender ambos que están sometidos a las normas y reglamentos por los que se rige el PH. No se permitirán abusos, desinterés ni falta de observancia a estas normas y reglamentos por parte de ninguna agencia de bienes raíces. En la eventualidad que ello se dé, el personal de dichas agencias de bienes raíces no podrán acceder a los predios del P.H. para llegar a la unidad inmobiliaria objeto de su administración, independientemente de contar con la autorización del propietario respectivo hasta tanto en cuanto éste cancele las multas que sean del caso y la agencia de bienes raíces se comprometa por escrito a acatar las normas y reglamentos por los que se rige el PH. En el caso que un arrendatario se niegue a acatar las normas y reglamentos del PH deberá asumir las consecuencias que derivarán de las acciones legales o coercitivas a que recurra la Junta Directiva para evitar y corregir anomalías.
 
 #### Artículo 32.
-La Junta Directiva y/o la Administración no permitirán que ningún propietario alquile su unidad inmobiliaria por períodos de días o semanas de forma ocasional. En la eventualidad que se presenten pruebas de que algún propietario esté alquilando su unidad inmobiliaria a modo de "hotel de corta, mediana o larga estancia", será contactado por la Junta Directiva la cual le advertirá que de continuar con esta práctica se denunciará tal práctica ante las Autoridades competentes y se le impedirá el acceso a toda persona que pretenda acceder al P.H. con la intención de utilizar dicha unidad inmobiliaria hasta tanto no se presente el propietario en persona para demostrar que se trata de un arrendatario en toda regla, incluyendo la información necesaria sobre el arrendatario en cuestión. La Junta Directiva se reserva el derecho de solicitar las evidencias que sean del caso.
+El alquiler de las unidades inmobiliarias deberá mantener el uso residencial previsto en el Reglamento de Copropiedad y en la Ley. No se permitirá la explotación de unidades a modo de hotel, apartahotel o actividad análoga que genere rotación intensiva de ocupantes, servicios adicionales propios de hospedaje o afectaciones a la seguridad, paz y tranquilidad de los residentes.
+
+Todo propietario deberá registrar ante la Administración la información del arrendatario y el plazo del contrato antes del ingreso del ocupante. En caso de presunto uso contrario al destino residencial, la Junta Directiva seguirá el procedimiento de notificación y descargos previsto en este Reglamento antes de aplicar sanciones.
 
 ## VIII. RECOLECCIÓN DE BASURA Y CONTROL DE PESTES
 
@@ -253,7 +261,7 @@ La Administración del P.H. GARDENIAS (P.H. DERIVADO) solamente se encargará de
 Cada propietario de las unidades inmobiliarias deberá cubrir la tasa de aseo impuesto por la entidad gubernamental o municipal respectiva.
 
 #### Artículo 34.
-Los propietarios y/o arrendatarios de las unidades inmobiliarias, deberán contratar los servicios de fumigación. Los servicios de fumigación de las unidades inmobiliarias deberán realizarse mínimo cada tres (3) meses, ó según lo indique el Ministerio de Salud, y deben incluir cebo y trampas para roedores, a fin de mantener el óptimo control requerido por las autoridades de salud.
+Los propietarios y/o arrendatarios de las unidades inmobiliarias deberán mantener sus unidades en condiciones de salubridad y control de plagas. Como regla general, deberán realizar fumigación preventiva por lo menos cada seis (6) meses, o con mayor frecuencia cuando así lo indiquen las autoridades de salud o exista infestación comprobada.
 
 De detectarse una infestación, la Administración se reserva el derecho de solicitar una acción de saneamiento fuera del periodo estipulado, por cuenta y costa del propietario y/o arrendatario de la unidad inmobiliaria afectada.
 
@@ -271,16 +279,29 @@ Los PROPIETARIOS deberán sufragar los gastos de administración, conservación,
 
 2. Los gastos de conservación y mantenimiento de los bienes comunes del P.H. GARDENIAS.
 
-Las cuotas de mantenimientos serán cubiertas durante los cinco (5) primeros días de cada mes. Por atraso habrá un recargo mensual del 10%. Los pagos deberán hacerse únicamente por depósito directo, transferencia local o internacional. Está terminantemente prohibido pagar en efectivo cuotas regulares, multas, recargos o cuotas extraordinarias.
+Las cuotas de mantenimiento serán cubiertas durante los cinco (5) primeros días de cada mes. En caso de atraso, la Junta Directiva podrá aplicar un recargo de hasta veinte por ciento (20%) sobre la suma vencida, conforme a la Ley aplicable y previa notificación.
 
-Los propietarios deberán estar a paz y salvo con las cuotas de la administración para poder reservar y utilizar las áreas sociales y facilidades comunes.
+Los pagos podrán hacerse por depósito directo, transferencia local o internacional y por cualquier otro medio de pago autorizado por la Administración que permita trazabilidad y emisión de recibo.
+
+Para reservar áreas sociales de uso exclusivo, el propietario deberá estar a paz y salvo con las cuotas de la administración. Las demás medidas por morosidad se aplicarán conforme a la Ley y al presente Reglamento, incluyendo el plazo mínimo de dos (2) meses de atraso cuando corresponda.
 
 ## XI. PROHIBICIONES Y MULTAS
 
-#### Artículo 36.
+#### Artículo 37.
 Los propietarios no podrán incurrir en las siguientes conductas que serán sancionadas:
 
-1. El no pago oportuno de la cuota de administración: se cobrará un recargo del veinte por ciento (20%) de interés mensual hasta que se cancele la obligación, sin excepción y el propietario será considerado moroso hasta tanto, en cuanto no cancele. A partir del segundo mes de morosidad, se confeccionará un listado de los propietarios morosos que será publicado y distribuido a todos los Propietarios para su conocimiento y también se les suspenderá el acceso al área social y todas las áreas que forman parte de las amenidades, o sea, el corte de los servicios comunes o privados para cuyo suministro es necesario el aporte de la cuota de administración.
+1. El no pago oportuno de la cuota de administración: la Junta Directiva podrá aplicar un recargo de hasta veinte por ciento (20%) sobre la cuota vencida y el propietario será considerado moroso mientras mantenga saldo pendiente.
+
+    A partir de los dos (2) meses o más del vencimiento de la obligación de pago, podrán aplicarse las medidas permitidas por la Ley, entre ellas:
+    a) Publicación en lugar visible del número de unidad inmobiliaria morosa, número de finca y monto adeudado, sin incluir nombre del propietario.
+    b) Suspensión del uso de áreas comunes recreativas y de servicios comunes para cuyo suministro sea necesario el aporte de cuotas de gastos comunes, con excepción del servicio de agua.
+    c) Negación de servicios de vigilancia y seguridad, correspondencia, portería, y de permisos para entrada de materiales o para remodelaciones/construcciones en la unidad.
+    d) Restricción del uso de entrada por control remoto o facilidades tecnológicas al propietario moroso y sus dependientes, permitiendo el acceso por entrada de visitantes.
+    e) Restricción de acceso vehicular a visitas y proveedores no esenciales y/o no urgentes, permitiendo el paso de ambulancias, vehículos de emergencia, autoridades y proveedores de medicamentos o alimentación cuando corresponda.
+    f) Interposición de proceso ejecutivo con base en el estado de cuenta o recibos no pagados.
+    g) Información por escrito a instituciones acreedoras hipotecarias o fiduciarias cuando exista atraso de dos (2) meses o más.
+
+    El propietario moroso asumirá los gastos en que incurra la propiedad horizontal para la aplicación de estas acciones y recuperación de expensas, incluyendo honorarios por servicios profesionales.
 2. La utilización de su unidad inmobiliaria en forma distinta a la indicada en el Reglamento de Copropiedad, y en general, en forma contraria a la Ley, la moral y las buenas costumbres.
 3. Hacer uso o permitir el uso de su unidad inmobiliaria o de los bienes comunes en forma tal que perturbe o pueda perturbar la tranquilidad y el sosiego de los demás Propietarios y desmerecer el buen nombre del P.H. GARDENIAS (P.H. DERIVADO).
 4. El uso inmoderado de aparatos de radio, televisión, tocadíscos y otros artefactos similares, cuyo volumen afecte a los demás propietarios.
@@ -300,8 +321,20 @@ Los propietarios no podrán incurrir en las siguientes conductas que serán sanc
 18. En caso de que la Administración del P.H. GARDENIAS (P.H. DERIVADO), detecte la adulteración de alguno de los equipos de medición de una unidad inmobiliaria, cobrará una sanción equivalente a doscientos dólares (US$200.00) sin menoscabo de la sanción que imponga la compañía proveedora de energía eléctrica.
 19. Cualquier otra conducta no permitida de acuerdo con este reglamento, para la cual no se contemple una sanción específica.
 
-#### Artículo 37.
-En casos urgentes o apremiantes que miren a la seguridad, la salud, o la vida de los ocupantes del P.H. GARDENIAS (P.H. DERIVADO), podrá el Administrador decretar por sí solo la privación de servicios o utilización de bienes de uso común, con la obligación de dar cuenta de ello en la siguiente reunión de la Administración.
+#### Artículo 38.
+En casos urgentes o apremiantes que miren a la seguridad, la salud, o la vida de los ocupantes del P.H. GARDENIAS (P.H. DERIVADO), el Administrador podrá adoptar medidas inmediatas y provisionales de protección.
+
+Toda medida adoptada por el Administrador bajo este supuesto deberá ser comunicada por escrito a la Junta Directiva dentro de las cuarenta y ocho (48) horas siguientes para su ratificación, modificación o levantamiento.
+
+Fuera de los casos de urgencia, toda privación de servicios o restricción de bienes de uso común deberá ser previamente aprobada por la Junta Directiva, con notificación al propietario afectado y oportunidad de presentar descargos.
+
+## XII. GARANTÍAS PROCEDIMENTALES
+
+#### Artículo 39.
+Para la imposición de sanciones por incumplimiento de este Reglamento, se garantizará el debido proceso, incluyendo: (1) notificación escrita de los hechos y norma presuntamente infringida; (2) plazo no menor de cinco (5) días hábiles para presentar descargos y pruebas; (3) decisión motivada de la Junta Directiva o de la autoridad interna competente; y (4) recurso de reconsideración ante la Junta Directiva dentro de los cinco (5) días hábiles siguientes a la notificación de la decisión.
+
+#### Artículo 40.
+Todo propietario o residente tendrá derecho a presentar peticiones respetuosas y por escrito a la Junta Directiva y/o Administración para solicitar información o documentos vinculados a la propiedad horizontal. La Administración deberá responder por escrito en un plazo razonable, no mayor de diez (10) días hábiles, salvo causa justificada.
 
 | INFRACCIÓN | MULTA |
 | --- | --- |
@@ -311,7 +344,7 @@ En casos urgentes o apremiantes que miren a la seguridad, la salud, o la vida de
 | No limpiar los desechos de las mascotas inmediatamente | $50.00 |
 | Falta de limpieza y no desechar la basura luego de mudanzas | $50.00 |
 | Exceder límite de invitados en el área social | $150.00 |
-| Retraso en el pago de la cuota de mantenimiento | 20% de interés sobre monto vencido |
+| Retraso en el pago de la cuota de mantenimiento | Hasta 20% sobre monto vencido, conforme Ley |
 | Estacionarse en los estacionamientos reservados para visitas o en área común | $75.00 |
 | Arrojar basura en las áreas comunes | $100.00 |
 | Exceso de ruidos o sonidos altos que perturben a los demás residentes | $100.00 |

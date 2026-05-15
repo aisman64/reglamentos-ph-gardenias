@@ -1521,7 +1521,7 @@ Todo PROPIETARIO podrá a sus expensas modificar el interior de su UNIDAD INMOBI
 #### ARTICULO 19
 Sin limitación a la generalidad de la anterior, los cambios en cualesquiera mejoras dentro del PROYECTO, requerirán la aprobación del Comité Arquitectónico. Estas necesarias aprobaciones previas, tienen como finalidad garantizar la consistencia visual, armonía y compatibilidad de los mejoras dentro del PROYECTO.
 
-En caso de que tales trabajos impliquen modificaciones, que, a juicio del Comité Arquitectónico, afecten los BIENES COMUNES o los BIENES PRIVADOS de otros PROPIETARIOS, el dicho PROPIETARIO interesado en los trabajos, deberá obtener la autorización previa de la Asamblea de Proprietarios, y el PROPIETARIO afectado, según lo requiera el Comité Arquitectónico.
+En caso de que tales trabajos impliquen modificaciones, que, a juicio del Comité Arquitectónico, afecten los BIENES COMUNES o los BIENES PRIVADOS de otros PROPIETARIOS, el dicho PROPIETARIO interesado en los trabajos, deberá obtener la autorización previa de la Asamblea de Propietarios, y el PROPIETARIO afectado, según lo requiera el Comité Arquitectónico.
 
 Estos trabajos y los que de ello se derivan, se ejecutarán siempre bajo la vigilancia de un Arquitecto idóneo cuyos honorarios correrán a cargo del PROPIETARIO interesado en dichos trabajos quien, en todo caso, será responsable por los daños o perjuicios que se ocasionen con motivo de dichos trabajos. Para tales efectos, el Comité Arquitectónico podrá exigirle a dicho propietario la presentación de un seguro contra daños a terceros, antes del inicio de los trabajos o durante la ejecución de los mismos. El monto de este seguro será determinado por el Comité Arquitectónico.
 
@@ -1589,7 +1589,7 @@ Se reputan BIENES COMUNES, de dominio inalienable e indivisible de todos los PRO
 10. En general, cualquier otra construcción, artefactos, áreas e instalaciones para el beneficio común que existan.
 
 #### ARTICULO 28
-Los deberes y derechos relativos a los BIENES COMUNES recaen sobre cada PROPIETARIO. Las cuotas de gastos comunes de cada UNIDAD INMOBILIARIA se determinarán de manera fija igualitaria por cada UNIDAD INMOBILIARIA. En caso de fallecimiento del propietario de la UNIDAD INMOBILIARIA sus herederos o representantes serán solidaria e individualmente responsables del cumplimiento de todas las obligaciones derivadas del presente Reglamento.
+Los deberes y derechos relativos a los BIENES COMUNES recaen sobre cada PROPIETARIO. Las cuotas de gastos comunes de cada UNIDAD INMOBILIARIA se determinarán conforme al coeficiente de participación y a la tabla de valores de este Reglamento, salvo los casos expresamente permitidos por la Ley 284 de 14 de febrero de 2022. En caso de fallecimiento del propietario de la UNIDAD INMOBILIARIA sus herederos o representantes serán solidaria e individualmente responsables del cumplimiento de todas las obligaciones derivadas del presente Reglamento.
 
 #### ARTICULO 29
 El P.H. GARDENIAS deberá ser mantenido y conservado en condiciones óptimas, a fin de que todos y cada uno de los PROPIETARIOS mantenga una adecuada apariencia, para lo cual los Bienes y Cosas Comunes se pintarán de tiempo en tiempo, cuando sea necesario, pudiendo solicitarle a los PROPIETARIOS para tales efectos, la aprobación en Asamblea de Propietarios, del pago de una cuota extraordinaria. 
@@ -1604,17 +1604,17 @@ Todo PROPIETARIO será responsable por los daños que hubiesen sido ocasionados 
 De igual forma, todos los PROPIETARIOS están en la obligación de velar por el debido uso y mantenimiento de los bienes y Cosas Comunes, así como de dar aviso inmediato al Administrador de cualquier hecho o acto que ponga o pudiese poner en peligro la conservación o seguridad de los mismos.
 
 #### ARTICULO 31
-Todo PROPIETARIO tiene derecho al uso y disfrute de los Bienes y Cosas Comunes, pero sujeto a este Reglamento, al Régimen de usos, al Reglamento del P.H. GOLF GARDENS (P.H. ORIGINARIO), así como a las normas o reglamentos que establezcan EL PROMOTOR o la Junta Directiva del P.H. GARDENIAS, según fuese el caso.
+Todo PROPIETARIO tiene derecho al uso y disfrute de los Bienes y Cosas Comunes, pero sujeto a este Reglamento, al Régimen de usos, al Reglamento del P.H. GOLF GARDENS (P.H. ORIGINARIO), a las resoluciones válidamente aprobadas por la Asamblea de Propietarios o la Junta Directiva en el ámbito de sus competencias legales, y a la Ley 284 de 14 de febrero de 2022.
 
 #### ARTICULO 32
-EL P.H. GARDENIAS deberá estar protegido con una Políza de Seguro de responsabilidad Civil y por una Políza de Seguro que incluya como mínimo, coberturas contra Incendio, terremoto, incendio causado por terremoto con extensión de cubierta y riesgos materiales, así como también una cobertura contra desastres naturales; por el valor que determine la Junta Directiva, quedando expresamente incluidos en la cobertura del Seguro los BIENES COMUNES. A tal fin, la Junta Directiva queda autorizada para contratar dichos Seguros en interés y por cuenta de los beneficiarios de tales pólizas, que serán los PROPIETARIOS, para designar la compañía aseguradora u para pactar los términos y condiciones y demás modalidades afinentes a estos tipos de contratos, quedando sujeto, en todo caso, el pago de la indemnización, a las disposiciones de la Ley doscientos ochenta y cuatro (284) de catorce (14) de febrero de dos mil veintidós (2022) que establece el Regimen de Propiedad Horizontal.
+EL P.H. GARDENIAS deberá estar protegido con una Póliza de Seguro de responsabilidad civil y por una Póliza de Seguro que incluya como mínimo, coberturas contra incendio, terremoto, incendio causado por terremoto con extensión de cubierta y riesgos materiales, así como también una cobertura contra desastres naturales; por el valor que determine la Junta Directiva, quedando expresamente incluidos en la cobertura del Seguro los BIENES COMUNES. A tal fin, la Junta Directiva queda autorizada para contratar dichos Seguros en interés y por cuenta de los beneficiarios de tales pólizas, que serán los PROPIETARIOS, para designar la compañía aseguradora o para pactar los términos y condiciones y demás modalidades afines a estos tipos de contratos, quedando sujeto, en todo caso, el pago de la indemnización, a las disposiciones de la Ley doscientos ochenta y cuatro (284) de catorce (14) de febrero de dos mil veintidós (2022) que establece el Régimen de Propiedad Horizontal.
 
 Los PROPIETARIOS obtendrán por su cuenta y costo, las pólizas de seguro para protección de cada UNIDAD INMOBILIARIA contra los riesgos antes indicados.
 
 ### DE LA CUOTA DE GASTOS COMUNES
 
 #### ARTICULO 33
-Cada PROPIETARIO deberá contribuir a las expensas necesarias para sufragar los gastos comunes tanto del P.H. ORIGINARIO como del P.H. GARDENIAS, mediante el pago de una cuota mensual de gastos comunes, la cual será sufragada por partes iguales por cada UNIDAD INMOBILIARIA que conforma el P.H. GARDENIAS, y destinada, en el siguiente orden de prioridad, por ser éste un PH Derivado del PH ORIGINARIO GOLF GARDENS: 
+Cada PROPIETARIO deberá contribuir a las expensas necesarias para sufragar los gastos comunes tanto del P.H. ORIGINARIO como del P.H. GARDENIAS, mediante el pago de una cuota mensual de gastos comunes, determinada conforme a la Ley 284 de 14 de febrero de 2022 y al coeficiente de participación o modalidad de fijación válidamente aprobada por la Asamblea de Propietarios, y destinada, en el siguiente orden de prioridad, por ser éste un PH Derivado del PH ORIGINARIO GOLF GARDENS: 
 
 1. Los gastos de conservación y mantenimiento del P.H. GOLF GARDENS (P.H. ORIGINARIO).
 2. Los gastos de conservación y mantenimiento de los bienes comunes del P.H. GARDENIAS.
@@ -1627,10 +1627,10 @@ La cuota de gastos comunes deberá ser cubierta dentro de los CINCO (5) primeros
 Ningún PROPIETARIO podrá liberarse de su obligación de contribuir con la Cuota de Gastos Comunes por renuncia del uso, goce o abandono de LA UNIDAD INMOBILIARIA, ni de los bienes y servicios comunes. 
 
 ##### PARAGRAFO 2
-Los propietarios del P.H. GARDENIAS que se encuentren morosos, tendrán restringido el uso y acceso a los servicios y bienes comunes del P.H. GOLF GARDENS (P.H. ORIGINARIO).
+Los propietarios del P.H. GARDENIAS que se encuentren morosos, tendrán restringido el uso y acceso a los servicios y bienes comunes del P.H. GOLF GARDENS (P.H. ORIGINARIO), de conformidad con las medidas permitidas por la Ley 284 de 14 de febrero de 2022 y este Reglamento.
 
 ##### PARAGRAFO 3
-Hasta tanto se reúna la Asamblea de Propietarios, EL PROMOTOR determinará el monto de las cuotas de gastos comunes, la cual se determinará de manera fija igualitaria por partes iguales por cada UNIDAD INMOBILIARIA. El PROMOTOR establecerá las cuotas de gastos comunes de cada unidad inmobiliaria por un período máximo de cinco (5) años, contados a partir de la expedición del permiso de ocupación de la última fase del Proyecto.
+Hasta tanto se reúna la Asamblea de Propietarios, EL PROMOTOR y/o propietario inicial determinará provisionalmente el monto de las cuotas de gastos comunes, conforme al presupuesto y a lo permitido por la Ley 284 de 14 de febrero de 2022. Dichas cuotas provisionales deberán ser ratificadas, modificadas o sustituidas por la Asamblea de Propietarios en su primera reunión ordinaria o extraordinaria convocada para ese fin.
 
 ##### PARAGRAFO 4 
 LOS PROPIETARIOS de cada UNIDAD INMOBILIARIA, incluyendo al propietario inicial en el caso de viviendas nuevas antes EL PROMOTOR, deberán sufragar la totalidad de las cuotas de gastos comunes a partir de la fecha de expedición del permiso de ocupación de la UNIDAD INMOBILIARIA, hasta que sea debidamente inscrita en el Registro Público la venta de la UNIDAD INMOBILIARIA o sea entregada la UNIDAD INMOBILIARIA, en cuyo caso corresponderá a cada propietario o al promitente comprador, según sea el caso, asumirlo conforme a la cuota de gastos comunes y lo que establezca el artículo 27 de la Ley 284 de 14 de febrero de 2022.
@@ -1639,7 +1639,7 @@ LOS PROPIETARIOS de cada UNIDAD INMOBILIARIA, incluyendo al propietario inicial 
 Los PROPIETARIOS aportarán al realizar la transacción de comproventa de su UNIDAD INMOBILIARIA, un depósito inicial equivalente a un (1) mes de cuota de gastos comunes, que formará parte de una cuota inicial de gastos comunes. Esta cuota inicial de gastos comunes servirá para sufragar los gastos iniciales de mobiliario y equipo para las áreas comunes y sólo será pagada una sola vez por propietario, y deberá ser cancelada antes de registrarse la transacción de compraventa de la unidad inmobiliaria o al obtener el permiso de ocupación 
 
 ##### PARAGRAFO 6
-EL PROMOTOR no estará obligado a pagar cuotas de gastos comunes respecto de los lotes no construidos o en proceso de construcción.
+EL PROMOTOR y/o propietario inicial cumplirá con el pago de las cuotas y aportes que le correspondan conforme al artículo 27 de la Ley 284 de 14 de febrero de 2022, incluyendo los supuestos de proyectos por etapas o fases y las áreas comunes generales del proyecto.
 
 #### ARTICULO 34
 Se considerarán Gastos Comunes, a que deben contribuir todos los PROPIETARIOS, en proporción a sus cuotas, entre otros, los siguientes:
@@ -1652,20 +1652,29 @@ Se considerarán Gastos Comunes, a que deben contribuir todos los PROPIETARIOS, 
 6. Remuneración de guardias de seguridad y personal de servicio del P.H. GARDENIAS.
 7. Gastos comunes y demás áreas comunes tanto del P.H. GOLF GARDENS (Originario) como del P.H. GARDENIAS (Derivado).
 
-De igual forma cada PROPIETARIO deberá contribuir a las expensas necesarias para sufragar los gastos especiales o extraordinarios que se presenten, mediante el pago de una cuota extraordinaria que determinará la Asamblea de Propietarios. Las cuotas de gastos comunes de cada UNIDAD INMOBILIARIA se determinarán de manera fija igualitaria para cada UNIDAD INMOBILIARIA.
+De igual forma cada PROPIETARIO deberá contribuir a las expensas necesarias para sufragar los gastos especiales o extraordinarios que se presenten, mediante el pago de una cuota extraordinaria que determinará la Asamblea de Propietarios conforme a la Ley 284 de 14 de febrero de 2022.
 
 #### ARTICULO 35
-Todo acuerdo que señale modificación de cuotas de gastos comunes, imposición de cuota de gastos comunes extraordinarios o contribuciones, requerirá de la aprobación de la Asamblea de Propietarios, mediante la votación favorable de, como mínimo, el sesenta y seis por ciento (66%) de los PRPOPIETARIOS de las UNIDADES INMOBILIARIAS que estén al día en sus obligaciones financieras con la propiedad horizontal. Sin embargo en el caso de modificación de cuotas comunes o la imposición de cuotas de gastos comunes extraordinarios necesarios para el mantenimiento, operación y seguridad de la propiedad horizontal, de no lograrse la aprobación del mínimo del sesenta y seis por ciento (66%) de los PROPIETARIOS de las UNIDADES INMOBILIARÍAS que este al día en sus obligaciones financieras con la propiedad horizontal, por inasistencia a la Asamblea de Propietarios correspondiente, bastará en la segunda convocatoria con la aprobación de, como mínimo, el treinta y tres por ciento (33%) de los PROPIETARIOS de las UNIDADES INMOBILIARÍAS que estén al día en sus obligaciones financieras con la propiedad horizontal.
+Todo acuerdo que señale modificación de cuotas de gastos comunes ordinarias o la aprobación de cuotas de gastos comunes extraordinarias en primera convocatoria, requerirá la aprobación de la Asamblea de Propietarios mediante la votación favorable de, por lo menos, el cincuenta y un por ciento (51%) de la totalidad de las UNIDADES INMOBILIARIAS que se encuentren al día en el pago de las cuotas de gastos comunes.
+
+De no lograrse el quórum reglamentario en la reunión de primera convocatoria, el secretario dejará constancia en acta y se convocará una segunda reunión conforme a la Ley 284 de 14 de febrero de 2022, en la cual bastará con la aprobación de, como mínimo, el treinta por ciento (30%) de la totalidad de las UNIDADES INMOBILIARIAS que se encuentren al día en el pago de las cuotas de gastos comunes.
 
 #### ARTICULO 36
 Cuando alguno de los PROPIETARIOS se negare a satisfacer el valor de dichas Cuotas de Administración o a cubrir aquellos otros gastos, expensas o multas a cuyo pago este obligado por Ley o por este Reglamento y cuya recaudación corresponda al Administrador, por término de dos (2) meses o más, el Administrador podrá, o en su defecto la Junta Directiva, entablar en contra del PROPIETARIO renuente un Proceso Ejecutivo. En dicho Proceso tendrá el valor de título ejecutivo el Estado de Cuenta y/o los recibos no pagados que presente el Administrador al PROPIETARIO con el propósito de exigir judicialmente el cumplimiento de la obligación.
 
-Lo anterior es sin perjuicio de que a los PROPIETARIOS morosos en el pago de las Cuotas de Gastos Comunes por un término de dos meses o más, el Administrador podrá anunciar en lugar visible la morosidad, aplicarle sobre la cantidad adeudada el veinte por ciento (20%) de acuerdo a lo previsto en el artículo 28 de la Ley 284 de 14 de febrero de 2022 y suspenderle el acceso a las áreas comunes, tuberías para suministro de gas, y demás bienes suntuosos, o sea, el corte de los servicios comunes para cuyo suministro es necesario el aporte de la cuota de gastos comunes.
+Lo anterior es sin perjuicio de que, respecto de los PROPIETARIOS morosos en el pago de las Cuotas de Gastos Comunes, se podrán aplicar las medidas permitidas por el artículo 28 de la Ley 284 de 14 de febrero de 2022, incluyendo:
+
+1. Recargo de hasta el veinte por ciento (20%) sobre la cuota dejada de pagar, posterior a la fecha de vencimiento establecida.
+2. Anuncio en lugar visible de la unidad inmobiliaria morosa, número de finca y monto adeudado, sin especificación del nombre del propietario.
+3. Suspensión del uso de áreas comunes recreativas y servicios comunes permitidos por ley a partir de dos (2) meses o más de vencimiento, con expresa exclusión de la suspensión del servicio de agua.
+4. Restricciones de acceso y facilidades tecnológicas en los términos y con las excepciones previstas por la Ley 284 de 14 de febrero de 2022.
+
+La imposición de sanciones y medidas por incumplimiento deberá observar los principios de debido proceso, defensa, contradicción e impugnación previstos en la Ley 284 de 14 de febrero de 2022.
 
 ### DEBERES Y DERECHOS DE LOS PROPIETARIOS
 
 #### ARTICULO 38
-Todo PROPIETARIO tiene derecho al uso y disfrute de los Bienes y Cosas Comunes, pero sujeto a este Reglamento, en el Reglamento de Uso del P.H. GARDENIAS y del P.H. GOLF GARDENS (P.H. ORIGINARIO), así como a las normas o reglamentos que establezcan EL PROMOTOR y la Junta Directiva del P.H. GARDENIAS según sea el caso.
+Todo PROPIETARIO tiene derecho al uso y disfrute de los Bienes y Cosas Comunes, pero sujeto a este Reglamento, al Reglamento de Uso del P.H. GARDENIAS y del P.H. GOLF GARDENS (P.H. ORIGINARIO), a las resoluciones válidamente aprobadas por la Asamblea de Propietarios o la Junta Directiva en el ámbito de sus competencias legales, y a la Ley 284 de 14 de febrero de 2022.
 
 #### ARTICULO 39
 Los PROPIETARIOS están obligados entre otras cosas previstas en este Reglamento a lo siguiente: 
@@ -1771,14 +1780,16 @@ La Asamblea de Propietarios tendrá todos aquellas funciones y facultades que la
 La convocatoria para las sesiones de la Asamblea de Propietarios, ya sean éstas ordinarias o extraordinarias, deberá estar hecha con no menos de diez (10) ni más de veinte (20) días hábiles de antelación a la fecha en que debe efectuarse la reunión y se hará por medio de carta, telegrama, tax o cualquier otro medio electrónico dirigido a la dirección que haya indicado cada propietario o por entrega de la citación en la UNIDAD INMOBILARIA correspondiente. Se entiende efectuada la notificación, por la simple entrega de la notificación a la persona que siendo mayor de edad, sea ocupante de la UNIDAD INMOBILARIA o trabajo para el PROPIETARIO.
 
 #### ARTICULO 47
-Para construir quórum en una Asamblea de Propietarios sea ordinaria o extraordinaria será necesaria la presencia de, por los menos, más de la mitad de los PROPIETARIOS, independientemente del número de las UNIDADES INMOBILIARIAS, que pertenezca a cada uno de ellos. Si transcurrido una hora siguiente a la fijada en la convocatorio y no hubiera el quórum requerido, el secretario o quien haga sus veces, levantará un acta en que conste tal circunstancia y el número, nombre y porcentaje de participación de los asistentes a la Asamblea de Propietarios.
+Para construir quórum en una Asamblea de Propietarios, sea ordinaria o extraordinaria, será necesaria la presencia de, por lo menos, más de la mitad de los PROPIETARIOS, independientemente del número de las UNIDADES INMOBILIARIAS que pertenezcan a cada uno de ellos.
 
-Cumplida esta formalidad, la Asamblea podrá deliberar y adoptar decisiones validas con un quórum equivalente al veinte por ciento (20%) de los propietarios, siempre que la Ley no exija un quórum distinto para, lograr decisiones válidas.
+Si transcurrida una hora siguiente a la fijada en la convocatoria no hubiera el quórum requerido, el secretario o quien haga sus veces levantará un acta en que conste tal circunstancia y el número, nombre y porcentaje de participación de los asistentes.
+
+Cumplida esta formalidad, la Asamblea podrá sesionar en segunda convocatoria con un quórum equivalente al veinte por ciento (20%) de la totalidad de los propietarios. En segunda convocatoria, las decisiones serán válidas mediante el voto favorable de la mayoría simple de los presentes que estén al día en sus obligaciones financieras, salvo que la Ley 284 de 14 de febrero de 2022 exija un porcentaje distinto.
 
 En todas las reuniones de la Asamblea de Propietarios, cualquier PROPIETARIO puede hacerse representar por un mandatario que no necesariamente deberá ser propietario a su vez, y que podrá ser designado por documento público o privado.
 
 #### ARTICULO 48
-Las decisiones de la Asamblea de Propietarios, para que surtan efecto legal sean de obligatorio cumplimiento, deberán ser aprobados por más de la mitad de todos las UNIDADES INMOBILIARIAS que estén al día con sus obligaciones financieras con la propiedad horizontal, salvo aquellas decisiones para las cuales la Ley o este Reglamento fijen un número distinto para su aprobación.
+Las decisiones de la Asamblea de Propietarios, para que surtan efecto legal y sean de obligatorio cumplimiento, deberán ser aprobadas conforme a los porcentajes y requisitos establecidos en la Ley 284 de 14 de febrero de 2022 y este Reglamento, según la materia de que se trate.
 
 En sesiones extraordinarias no se podrá decidir sobre aquellos asuntos distintos para los cuales haya sido convocada la reunión.
 
@@ -1795,7 +1806,7 @@ Los directores no recibirán compensación alguna por el desempeño de sus cargo
 La Junta Directiva será responsable por cumplir y hacer cumplir las decisiones de la Asamblea de Propietarios en lo referente a la administración y conservación de los BIENES COMUNES y tendrá, además, las siguientes funciones y facultades:
 
 1. Nombrar y remover de su cargo, al Administrador del P.H. GARDENIAS y establecer la remuneración y demás términos y condiciones relativas a sus funciones. Es entendido que el Administrador podrá ser una persona jurídica en cuyo caso ésto deberá designar a un individuo quien ejercerá sus funciones y cumplirá con las obligaciones que la ley o este Reglamento establece en relación con el Administrador.
-2. Conocer del Proyecto de Presupuesto y estados financieros que deben ser presentados anualmente, por el Administrador ante la Asamblea de Proprietarios y recomendar ante dicha Asamblea su aprobación o no.
+2. Conocer del Proyecto de Presupuesto y estados financieros que deben ser presentados anualmente, por el Administrador ante la Asamblea de Propietarios y recomendar ante dicha Asamblea su aprobación o no.
 3. Adoptar reglamentos aplicables a cada y toda disposición de este Reglamento, a saber, "Reglamento de uso", lo que inclirá también la estimación de multas por violaciones a cualquier disposición y por mora.
 4. Autorizar cualquier desembolso extraordinario no previsto en el Presupuesto, previo recomendación del Administrador.
 5. Revisar los balances trimestrales sobre ingresos y egresos que le presente el Administrador.
@@ -1830,29 +1841,29 @@ Solo podrá ser miembros de la Junta Directiva, las personas naturales que:
 3. Ostenten la representación ante la Asamblea de Propietarios de una persona jurídica que sea PROPIETARIO de uno o más UNIDADES INMOBILIARIAS.
 
 #### ARTICULO 55
-El PROPIETARIO que sea elegido miembro de la Junta Directiva deberá estar paz y salvo con la Administración del P.H. GARDENIAS en todo concepto. Quien no reuniendo esta última condición fuera elegido, no podrá actuar y su puesto quedará vacante. Las vacantes que ocurran en la Junta Directivo por cualquier motivo serán llenadas por el resto de los Directores en ejercicio de su próxima reunión, siempre que estas constituyan quórum.
+El PROPIETARIO que sea elegido miembro de la Junta Directiva deberá estar a paz y salvo con la Administración del P.H. GARDENIAS en todo concepto. Quien no reuniendo esta última condición fuera elegido, no podrá actuar y su puesto quedará vacante. Las vacantes que ocurran en la Junta Directiva por cualquier motivo serán llenadas por el resto de los Directores en ejercicio de su próxima reunión, siempre que estas constituyan quórum.
 
 De lo contrario, cualquiera de los Directores en ejercicio, deberán convocar una reunión extraordinaria de la Asamblea de Propietarios, a efecto de llenar dichas vacantes.
 
 ## CAPITULO VI: COMITÉ ARQUITECTÓNICO
 
 #### ARTICULO 56
-Está conformado por tres (3) miembros designados por EL PROMOTOR DESARROLLOS INMOBILIARIOS DEL GOLF, S.A., quienes ejerceran sus cargos hasta que el PROMOTOR haya culminado la totalidad del desarrollo constructivo del P.H. GOLF GARDENS [P.H. ORIGINARIO]
+Está conformado por tres (3) miembros. Durante la etapa constructiva inicial, podrán ser designados por EL PROMOTOR DESARROLLOS INMOBILIARIOS DEL GOLF, S.A.; concluida dicha etapa, o vencido el plazo legal de reservas del PROMOTOR, lo que ocurra primero, su designación corresponderá a la Asamblea de Propietarios o a la Junta Directiva conforme a este Reglamento y la Ley 284 de 14 de febrero de 2022.
 
 #### ARTICULO 57
-Con la finalidad de establecer y mantener el diseno arquitectónico específico en el P.H. GARDENIAS, el Comité Arquitectónico tendrá las siguientes atribuciones:
+Con la finalidad de establecer y mantener el diseño arquitectónico específico en el P.H. GARDENIAS, el Comité Arquitectónico tendrá las siguientes atribuciones:
 
-1. Dar los autorizaciones para las obras que deseen efectuar los PROPIETARIOS, con arreglo a lo que establece este Reglamento, pudiendo requerir que se hagan cambios o de imponer condiciones, a su absoluta discreción, o requerir, cuando fuere el caso, la autorización de la Asamblea de Propietarios o de los PROPIETARIOS afectados.
+1. Dar las autorizaciones para las obras que deseen efectuar los PROPIETARIOS, con arreglo a este Reglamento, pudiendo requerir cambios o imponer condiciones razonables, técnicas y proporcionales, debidamente motivadas por escrito, y requiriendo, cuando fuere el caso, la autorización de la Asamblea de Propietarios o de los PROPIETARIOS afectados.
 2. Solicitar la aprobación de la Junta Directiva en todos los casos de autorizaciones que le sean requeridas.
-3. Vigilar la ejecución de obras ordenadas o autorizadas por la Asamblea de Propietarios y nombrar los ingenieros, arquitectos y demás técnicos que se requieran para el cabal desempéno de estas funciones.
+3. Vigilar la ejecución de obras ordenadas o autorizadas por la Asamblea de Propietarios y nombrar los ingenieros, arquitectos y demás técnicos que se requieran para el cabal desempeño de estas funciones.
 4. Vigilar que toda ejecución de obras cuente con los permisos y autorizaciones gubernamentales requeridos.
 5. Conservar registros de toda la documentación que les sea presentada relacionada con la ejecución de obras en el P.H. GARDENIAS.
-6. Adoptar los Reglamentos como comité Arquitectónico, de ser solicitado por lo Asamblea de Proprietarios.
+6. Adoptar los Reglamentos como Comité Arquitectónico, de ser solicitado por la Asamblea de Propietarios.
 
 #### ARTICULO 58
-Bajo ninguna circunstancia, ninguna decoración externa o mejora será construída o instalada en el PROYECTO sin el consentimiento previo, expreso y por escrito del Comité Arquitectónico, y de ser requerido, conforme a la Ley 284 de 14 de febrero de 2022 por aprobación de la Asamblea de Propietarios, y tendrá que estar completamente acorde con las disposiciones del presente Reglamento, en el Reglamento de Uso P.H. GARDENIAS.
+Bajo ninguna circunstancia, ninguna decoración externa o mejora será construida o instalada en el PROYECTO sin el consentimiento previo, expreso y por escrito del Comité Arquitectónico, y de ser requerido, conforme a la Ley 284 de 14 de febrero de 2022, por aprobación de la Asamblea de Propietarios, y tendrá que estar completamente acorde con las disposiciones del presente Reglamento y del Reglamento de Uso del P.H. GARDENIAS.
 
-Ninguna decoración externa interna o mejora, podrá ser construida o instalada en los UNIDADES INMOBILIARIAS, en intracción del presente Reglamento, en el Reglamento de Uso del P.H. GARDENIAS, en el Reglamento de Copropiedad del P.H. GOLF GARDENS (P.H. ORIGINARIO).
+Ninguna decoración externa o interna, o mejora, podrá ser construida o instalada en las UNIDADES INMOBILIARIAS, en infracción del presente Reglamento, del Reglamento de Uso del P.H. GARDENIAS o del Reglamento de Copropiedad del P.H. GOLF GARDENS (P.H. ORIGINARIO).
 
 #### ARTICULO 59
 El Comité Arquitectónico se reunirá periódicamente según sea necesario para cumplir con sus deberes; y guardará y mantendrá un registro por escrito de todas las acciones adoptadas en tales sesiones o de otra manera.
@@ -1861,10 +1872,10 @@ El Comité Arquitectónico se reunirá periódicamente según sea necesario para
 Los miembros del Comité Arquitectónico, no recibirán compensación alguna por los servicios prestados.
 
 #### ARTICULO 61
-Toda solicitud que sea presentada para aprobación del Comité Arquitectónico deberá ser evaluada en un período máximo de sesenta (60) días calendarios prorrogables.
+Toda solicitud que sea presentada para aprobación del Comité Arquitectónico deberá ser evaluada en un período máximo de sesenta (60) días calendarios. Este término podrá prorrogarse por una sola vez, hasta por treinta (30) días calendarios adicionales, mediante comunicación escrita y motivada al solicitante antes del vencimiento del plazo original.
 
 #### ARTICULO 62
-El Comité Arquitectónico funcionara así: 
+El Comité Arquitectónico funcionará así: 
 
 1. Podrá requerir que se le presente cualesquiera o todos los siguientes documentos, así como cualquier otro documento adicional que considere apropiado para la actividad por la cual se requiere consentimiento:
 
@@ -1881,11 +1892,11 @@ El Comité Arquitectónico funcionara así:
     c. Serán consideradas presentadas, cuando son realmente recibidas por el Comité Arquitectónico; y\
     d. deberá indicar por escrito los asuntos específicos para los cuales se busca aprobación.
 
-3. Antes de aprobar cualquier solicitud, podrá requerirse que se realicen cambios a fin de cumplir con los requisitos exigidos. A su absoluta discreción podrá solicitar, en cuanto a características estructurales de cuálquier mejora propuesta de tipos de materiales a utilizarse.
+3. Antes de aprobar cualquier solicitud, podrá requerirse que se realicen cambios para cumplir con los requisitos exigidos. Las observaciones sobre características estructurales o tipos de materiales deberán estar debidamente motivadas por escrito y responder a criterios técnicos, de seguridad, salubridad, conservación y armonía arquitectónica.
 
-    No obstante lo anterior, ninguna aprobación será considerada que dispensa al solicitarte de cumplir con los requisitos aplicables municipales o de cuálquier otra entidad gubernamental con jurisdicción sobre el PROYECTO, incluyendo, pero no de manera taxativa, cualesquiera aprobaciones de planificación previos y requisitos de código de construcción. En relación con ello, como una condición de aprobación, el Municipio o tal otra entidad gubernamental podrá requerir, como parte de cualquier presentación por un Propietario, confirmación que la modificación o mejora solicitada ha sido considerada y aprobada por el Comité Arquitectónico. Ni el Comité Arquitectónico, ni la Junta Directiva, ni la Asociación de Proprietarios serán responsables por cualquier pérdida, costo o daño que resulte de cualquier demora ocasionada por la inhabilidad del PROPIETARIO de presentar una solicitud al Municipio u otra entidad gubernamental antes de que la aprobación de tiempo sea obtenida de la Junta Directiva.
+    No obstante lo anterior, ninguna aprobación será considerada como dispensa al solicitante de cumplir con los requisitos aplicables municipales o de cualquier otra entidad gubernamental con jurisdicción sobre el PROYECTO, incluyendo, pero no de manera taxativa, cualesquiera aprobaciones de planificación previas y requisitos de código de construcción. En relación con ello, como una condición de aprobación, el Municipio o tal otra entidad gubernamental podrá requerir, como parte de cualquier presentación por un Propietario, confirmación de que la modificación o mejora solicitada ha sido considerada y aprobada por el Comité Arquitectónico. Ni el Comité Arquitectónico, ni la Junta Directiva, ni la Asociación de Propietarios serán responsables por cualquier pérdida, costo o daño que resulte de cualquier demora ocasionada por la inhabilidad del PROPIETARIO de presentar una solicitud al Municipio u otra entidad gubernamental antes de que la aprobación a tiempo sea obtenida de la Junta Directiva.
 
-4. Antes de dar su aprobación, podrá imponer condiciones (incluyendo, pero no de manera taxativa, seguridad adecuada, en formo de seguros o de otra manera, protegiendo a la Asamblea de Propietarios o los otros PROPIETARIOS), o requerir que se efectúen cambios que a su discreción sean requeridos para garantizar que las mejoras propuestas no denigrarán la apariencia del ÁREA COMÚN u otros elementos del P.H. GARDENIAS, o de otra manera crearán cualquier condición desventajosa para los otros PROPIETARIOS o en perjuicio del P.H. GARDENIAS, en su totalidad.
+4. Antes de dar su aprobación, podrá imponer condiciones (incluyendo, pero no de manera taxativa, seguridad adecuada por medio de seguros u otras garantías) o requerir cambios para garantizar que las mejoras propuestas no afecten la seguridad, salubridad, funcionamiento, conservación o armonía arquitectónica del P.H. GARDENIAS, ni generen perjuicios a otros PROPIETARIOS. Toda condición o requerimiento deberá ser proporcional, razonable y motivado por escrito.
 5. El Comité Arquitectónico tendrá durante todas las horas razonables, derecho a tener acceso a cualquier parte del P.H. GARDENIAS, y a cualesquiera estructuras siendo construidas en el mismo, a fin de inspeccionar el cumplimiento en relación con las normas establecidas en el presente Reglamento, y la entrada a cualquier parte del P.H. GARDENIAS de conformidad con el presente Reglamento no será considerada como traspaso ilegal.
 6. La aprobación o desaprobación por el Comité Arquitectónico, de cualesquiera planos, especificaciones, disenos, alturas o cualesquiera otros asuntos presentados para aprobación o consentimiento no será considerada como una limitante por el Comité Arquitectónico de su derecho de aprobar, desaprobar, objetar o consentir cualesquiera de las características o elementos incluidos en el mismo cuando las mismas se encuentran incluidos en otros planos, especificaciones, disenos u otros asuntos presentados al Comité Arquitectónico.
 7. Cada PROPIETARIO será únicamente responsable por cualquier violación a este Reglamento las reglas arquitectónicas o cualquier instrumento, ley o reglamento aplicable, ocasionada por una mejora efectuada por dicho propietario aunque la misma sea aprobada por el Comité Arquitectónico. Los planos y especificaciones serán aprobados por el Comité Arquitectónico únicamente en cuanto al estilo, diseno, apariencia y ubicación, y no por diseno de ingenieria o cumplimiento con ordenanzas de zonificación y construcción, servidumbres, escrituras, restricciones y demás derechos y obligaciones que afectan el PROYECTO. Al aprobar tales planos especificaciones ni el Comité Arquitectónico, ni la Junta Directiva, la Asamblea de Propietarios, los PROPIETARIOS, ni El PROMOTOR, asumen obligación o responsabilidad por ello, o por cualquier defecto en cualquier estructura construida de tales planos y especificaciones. El Comité Arquitectónico tendrá derecho a requerir, como una condición de aprobación, que un PROPIETARIO provea indemnización conformo a los términos y condiciones satisfactorias para el Comité Arquitectónico.
@@ -1937,7 +1948,7 @@ Son funciones del Tesorero:
 5. Presentar periódicamente a la Junta Directiva un informe detallado del movimiento habido en la tesoreria.
 6. Presentar un Informe anual auditado que refieje el balance de situación y un estado de operaciones de la propiedad horizontal, conjuntamente con el informe anual de actividades que rinda el presidente ante la Asamblea de Propietarios. Lo obligación de presentar anualmente un informe auditado podrá ser, mediante acuerdo de la Asamblea de Propietarios, delegada a una firma de auditores o a un contador Público Autorizado.
 7. Emitir comprobante, estado de cuenta o recibo de paz y salvo a favor del propietario que la solicita y por motivos de venta o traspaso de su UNIDAD INMOBILIARIA, en ausencia del administrador.
-8) Ejerce la representación legal de la Asamblea de Proprietarios en ausencia del Presidente y del Vice- Presidente.
+8) Ejerce la representación legal de la Asamblea de Propietarios en ausencia del Presidente y del Vice- Presidente.
 9. Presidir las reuniones de la Asamblea de Propietarios en ausencia del Presidente y del Vice-Presidente.
 10. Velar por el buen manejo de los dineros y patrimonio de la Propiedad Horizontal y llevar un libro de ingresos y egresos.
 11. Convocar a reunión ordinaria y extraordinaria de la Asamblea de Propietarios. conforme a lo establecido en la Ley.
@@ -1999,23 +2010,16 @@ El Administrador recaudará las cuotas de los PROPIETARIOS y manejará las misma
 ## CAPITULO IX: DERECHOS Y FACULTADES DEL PROMOTOR
 
 #### ARTICULO 76
-El PROMOTOR hasta tanto no haya culminado la totalidad de las fases constructivas del P.H. GARDENIAS, se reserva para sí los siguientes derechos y facultades, que podrá ejercer sin necesidad de contar o solicitar la aprobación o consentimiento de la Asamblea de Propietarios, de la Junta Directiva, ni del Administrador: 
+El PROMOTOR, hasta tanto no haya culminado la totalidad de las fases constructivas del P.H. GARDENIAS, podrá ejercer las reservas y facultades de desarrollo, comercialización y ejecución de obras pendientes que se encuentren expresamente permitidas por la Ley 284 de 14 de febrero de 2022, su reglamentación y este Reglamento.
 
-1. Colocar letreros y anuncios en los BIENES COMUNES y en la parte exterior del P.H. GARDENIAS.
-2. Modificar las áreas verdes y las áreas destinadas a estacionamientos y circulación vehicular y peatonal, pudiendo reorganizar dichas áreas, sin otra limitación que la obligación de mantener el mínimo de espacios de estacionamiento requeridos por las Leyes de la República de Panamá.
-3. Reglamentar el uso de los áreas verdes y las destinadas a estacionamiento y de circulación vehicular y peatonal.
-4. Enmendar este Reglamento en cualquier tiempo hasta tanto no haya culminado la totalidad de las fases de construcción del P.H.GARDENIAS.
-5. Asignar los honorarios que se pagarán al administrador inicial de P.H. GARDENIAS.
-6. Ser licenciarlo exclusivo del nombre comercial P.H. GARDENIAS, por consiguiente, podrá hacer libre uso de él para todos los efectos que estime pertinentes, P.H. GARDENIAS, así como los PROPIETARIOS o usuarios de cualquiera de los UNIDADES INMOBILIARIAS situados a su interior, o quien legalmente los represente, podrán hacer uso del nombre cuando deseen designar la localización de su negocio, en aviso de prensa, revistas o cualquier otro medio de comunicación. Para ello, se debe usar exactamente el símbolo y logotipo registrados sin variación alguna.
-7. Disponer y/o utilizar ciertos BIENES COMUNES de P.H. GARDENIAS, que no sean indispensables para la existencia, seguridad, salubridad, y conservación del mismo.
-8. Los PROPIETARIOS deberán soportar que el PROMOTOR, ejecute trabajos de construcción, pudiendo establecer las servidumbres, gravámenes o derechos reales que considere conveniente para concluir el máster plan del proyecto, así como las reparaciones y trabajos de conservación y mantenimiento que resulte necesario efectuar en relación con los BIENES COMUNES o los BIENES PRIVADOS de otros PROPIETARIOS en dicha fase y deberán permitir el acceso y paso de equipo y maquinarias necesarias, a los arquitectos, obreros, contratistas y demás personas encargadas de vigilar, dirigir y ejecutar dichos obras. El administrador deberá tomar las medidas preventivas necesarias a fin de que dichos trabajos causen la menos molestia posible a las PORPIETARIOS o usuarios afectados o a terceras personas que visiten la UNIDADES INMOBILIARÍAS o el P.H. GARDENIAS.
-9. EL PROMOTOR, queda autorizado por los PROPIETARIOS, para que terminen los trabajos finales que pudieran estar dándose en el P.H. GARDENIAS, igualmente tendrá derecho de visitar con terceros el P.H. GARDENIAS y los BIENES COMUNES con el propósito de promover las ventas de las Unidades Inmobiliarias, que faltan por vender o arrendar.
-10. Hasta tanto no se haya concluido la construcción de la totalidad de las fases del Proyecto P.H. GOLF GARDENS (Originario). EL PROMOTOR, podrá reservarse sobre el P.H. GARDENIAS, el derecho sobre los drenajes, así como otorgar transferir el mismo, a fin de crear una servidumbre sobre todos los drenajes con el fin de permitir el escurrimiento de aguas superficiales en, sobre, por encima, debajo y a lo largo de todo el PROYECTO. Ningún PROPIETARIO construirá, modificará o alterará cualesquiera mejorar si al hacerlo interfiere con el drenaje natural del curso del agua encima y a lo largo del EDIFCIO, según fue construido originalmente.
-11. Reserva sobre calles y aceras: Por este medio se reserva EL PROMOTOR, junto con el derecho de otorgar y transferir el mismo, incluyendo a cualquier agencia gubernamental, una servidumbre encima y a través de partes del Área Común General, en donde cualesquiera aceras o bordes puedan pasar, estas servidumbres están reservadas para beneficio del PROYECTO.
-12. Reservas sobre árboles en las calles: Por este medio se le reserva EL PROMOTOR, junto con el derecho de otorgar y transferir el mismo, incluyendo a cualquier agencia gubernamental o semi gubernamental, una servidumbre encima y a través de partes del Área Común General, adyacentes a cualquier derecho de vía público en donde están localizados los árboles si los mismos no son mantenidos apropiadamente por la Asamblea de Propietarios.
-13. EL PROMOTOR se reserva el derecho de incluir nuevas fincas al PROYECTO. En caso de que esto suceda, podrá ajustar la tabla de porcentajes según las nuevas cantidades.
+Las reservas del PROMOTOR:
 
-Los derechos otorgados en el presente Reglamento a EL PROMOTOR, no podrán ser modificados, ni vulnerados por los PROPIETARIOS, la Asamblea de Propietarios, ni por la Junta Directiva, ni por el Administrador, ya que se reputan como un gravamen que pesa sobre el P.H. GARDENIAS, por un periodo máximo de diez años.
+1. No podrán recaer sobre bienes comunes esenciales para la existencia, estabilidad y funcionamiento de la propiedad horizontal.
+2. Deberán respetar los derechos de propiedad de los titulares de unidades inmobiliarias y no podrán limitar la facultad de enajenar, gravar o celebrar actos jurídicos sobre dichas unidades.
+3. Tendrán una vigencia máxima de diez (10) años, conforme a la Ley 284 de 14 de febrero de 2022.
+4. Solo podrán ejercerse de manera compatible con las competencias de la Asamblea de Propietarios, la Junta Directiva y la Administración establecidas por la Ley 284 de 14 de febrero de 2022.
+
+Toda modificación de este Reglamento se sujetará al procedimiento y mayorías especiales previstas en la Ley 284 de 14 de febrero de 2022.
 
 ## CAPITULO X: DISPOSICIONES TRANSITORIAS
 
@@ -2029,7 +2033,7 @@ Los Directores y Dignatarios serán designados por EL PROMOTOR, y ejercerán sus
     - VOCAL: DESARROLLOS INMOBILIARIOS DEL GOLF, S.A., cuyo representante será KARITZA NADIG SANTAMARIA PINZON
 
 #### ARTICULO 78
-Los cuotas de gastos comunes iniciales serán fijadas por la Junta Directiva Inicial hasta tanto se reunan los propietarios, quienes entonces deberán establecerlo de manera fija igualitaria por partes iguales por cada UNIDAD INMOBILIARIA. En todo caso, la suma total de dichas cuotas no podrá ser inferior al presupuesto mensual de gastos del PROYECTO más un porcentaje equivalente al quince por ciento (15%) de dichos gastos. De igual forma, EL PROMOTOR se reserva el derecho de obtener por cuenta e interés de LOS PROPIETARIOS, las primeras pólizas de responsabilidad civil y de incendio de que trafan el presente Reglamento, quedando facultado para contratar los seguros con las compañías de seguros que estime más conveniente y para pactar los términos, condiciones y demás modalidades atinentes a estos tipos de contratos.
+Las cuotas de gastos comunes iniciales serán fijadas por la Junta Directiva Inicial hasta tanto se reúnan los propietarios, quienes entonces deberán establecerlas conforme a la Ley 284 de 14 de febrero de 2022 y a este Reglamento. En todo caso, la suma total de dichas cuotas no podrá ser inferior al presupuesto mensual de gastos del PROYECTO más un porcentaje equivalente al quince por ciento (15%) de dichos gastos. De igual forma, EL PROMOTOR se reserva el derecho de obtener por cuenta e interés de LOS PROPIETARIOS, las primeras pólizas de responsabilidad civil y de incendio de que trata el presente Reglamento, quedando facultado para contratar los seguros con las compañías de seguros que estime más conveniente y para pactar los términos, condiciones y demás modalidades atinentes a estos tipos de contratos.
 
 #### ARTICULO 79
 El Administrador inicial del P.H. GARDENIAS será designado por EL PROMOTOR, y ejercerá su cargo hasta tanto la Junta Directiva elija un nuevo Administrador. Si el Administrador designado renunciara o fuera removido por EL PROMOTOR, durante este período, ésta designará su sucesor.
@@ -2041,7 +2045,7 @@ El primer Administrador, el cual ejercerá sus funciones hasta que el PROMOTOR h
 Autorizase también al Administrador inicial, para que efectúe, a cargo de la persona jurídica que se constituye mediante el presente instrumento, los gastos propios el funcionamiento del P.H. GARDENIAS, y los gastos propios para el amueblamiento de la oficina de administración; y elabore el Presupuesto de Ingresos y Gastos, abriendo registros contables autónomos e independientes.
 
 #### ARTICULO 82
-EL PROMOTOR, se reserva para sí el derecho de enmendar este Reglamento, sin necesidad de ningún tipo de autorización de la Asamblea de Propietarios o de la Junta Directiva, hasta que EL PROMOTOR haya finalizado la totalidad de las fases constructivas del P.H. GARDENIAS.
+EL PROMOTOR no podrá enmendar unilateralmente este Reglamento fuera de los supuestos expresamente permitidos por la Ley 284 de 14 de febrero de 2022. Toda reforma de fondo del Reglamento de Copropiedad se sujetará al procedimiento, mayorías y formalidades registrales previstas en dicha Ley.
 
 <style>
 table {

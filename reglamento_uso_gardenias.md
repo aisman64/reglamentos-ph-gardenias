@@ -250,7 +250,7 @@ Las únicas modificaciones que podrán realizar los propietarios en la fachada d
 2. Terraza.
 3. Ornato (Plantas).
 4. Verjas (se permitirá la colocación en la parte interior de la ventana)
-5. Paneles solares (esto solo podrán colocarse en la parte posterior de la fachada).
+5. La instalación de paneles solares únicamente se permitirá sobre la parte frontal y posterior del techo de la planta alta de la residencia. Queda expresamente prohibida su colocación sobre los aleros o techos de terrazas y estacionamientos.
 
 #### Artículo 24.
 El procedimiento para solicitar la autorización del Comité Arquitectónico, conforme lo establece el Reglamento de Copropiedad del P.H. GARDENIAS (P.H. DERIVADO), será el siguiente:

@@ -1718,8 +1718,8 @@ Queda prohibido a los PROPIETARIOS, de las UNIDADES INMOBILIARÍAS y a quienes l
 2. Hacer uso o permitir el uso de su UNIDAD INMOBILIARIA o de las áreas comunes en forma tal que perturbe o pueda perturbar la tranquilidad y el sosiego de los demás PROPIETARIOS y desmerecer el buen nombre del P.H. GARDENIAS. Queda expresamente prohibido el uso inmoderado y ruidoso de aparatos de radio, televisión y de equipos de sonido y otros artefactos similares.
 3. Introducir, mantener o almacenar en su UNIDAD INMOBILIARIA, o en cualquier otra parte del P.H. GARDENIAS, sustancias hornadas, corrosivas, inflamables, infectas o que representen peligro para la integridad de la construcción del P.H. GARDENIAS o para la salud de sus ocupantes y las que produzcan malos olores o cualquier clase de molestias para los demás PROPIETARIOS.
 4. Introducir modificaciones o reformas que incidan en la conformación general del P.H. GARDENIAS o que afecten la fachada del mismo; elevar nuevas construcciones instalaciones o equipos tales como adicionar techos, aleros, arenas sin el consentimiento del Comité Arquitectónico y de las autoridades competentes.
-5. Efectuar obras, tales como excavaciones nueves y sótanos o ampliaciones de las ya existentes y en general, ejecutar todos aquellos actos que puedan perjudicar o comprometer la solicidez, seguridad o salubridad del P.H. GARDENIAS sin la previa autorización del Comité Arquitectónico.
-6. Drenajes y Excavación: Toda UNIDAD INMOBILIARIA tiene ciertas instalaciones y características de drenaje tales como barreras de contención, pendientes de UNIDADES INMOBILIARIA5, estanques para drenaje, drenajes en áreas subterráneas y subdrenajes (en conjunto, "Instalaciones de Drenaje") que fueron instaladas para proveer un drenaje positivo para la UNIDAD INMOBILIARIA y transportar aguas pluviales fuera de las UNIDADES INMOBILIARIA5 para el beneficio da le UNIDAD INMOBILIARIA y de demás UNIDADES INMOBILIÁIS. Algunas de estos instalaciones de Drenaje se encuentran en la superficie de la UNIDAD INMOBILIÁRIA; otras pueden estar muy por debajo de la superficie. Si las instalaciones de Drenaje son intermumpidas, bloqueadas, llenadas, destruidas o de otra manera alteradas, puede resultar en un daño considerable y grave. Sin limitación a cualquier otra disposición de este Reglamento, cada PROPIETARIO mantendrá las Instalaciones de Drenaje en su propiedad en buenas condiciones y estado de conservación, y usará debido cuidado para evitar danos a cualquier Instalación de Drenaje en el subsuelo investigando apropiadamente las condiciones del subsuelo antes de cavar o excavar, y de inmediato reparará cualquier daño que pueda ocurrir a cualquier Instalación de Drenaje en la UNIDAD INMOBILIÁRIA. No habrá interferencia o alteración del patrón de drenaje establecido sobre el P.H. GARDENIAS, a menos que una disposición alternativa adecuada se haga para el drenaje apropiado con la aprobación previo por escrita del Comité Arquitectónico. Para los fines del presente Reglamento, drenaje "establecido" es definido como el drenaje que existe al momento del primer Cierre de Caución para la venta de una UNIDAD INMOBILIÁRIA en el PROYECTO, o que aparece en cualesquiera planos aprobados por el Comité Arquitectónico.
+5. Efectuar obras, tales como excavaciones nueves y sótanos o ampliaciones de las ya existentes y en general, ejecutar todos aquellos actos que puedan perjudicar o comprometer la solidez, seguridad o salubridad del P.H. GARDENIAS sin la previa autorización del Comité Arquitectónico.
+6. Drenajes y Excavación: Toda UNIDAD INMOBILIARIA tiene ciertas instalaciones y características de drenaje tales como barreras de contención, pendientes de UNIDADES INMOBILIARIAS, estanques para drenaje, drenajes en áreas subterráneas y subdrenajes (en conjunto, "Instalaciones de Drenaje") que fueron instaladas para proveer un drenaje positivo para la UNIDAD INMOBILIARIA y transportar aguas pluviales fuera de las UNIDADES INMOBILIARIAS para el beneficio da le UNIDAD INMOBILIARIA y de demás UNIDADES INMOBILIÁIS. Algunas de estos instalaciones de Drenaje se encuentran en la superficie de la UNIDAD INMOBILIÁRIA; otras pueden estar muy por debajo de la superficie. Si las instalaciones de Drenaje son intermumpidas, bloqueadas, llenadas, destruidas o de otra manera alteradas, puede resultar en un daño considerable y grave. Sin limitación a cualquier otra disposición de este Reglamento, cada PROPIETARIO mantendrá las Instalaciones de Drenaje en su propiedad en buenas condiciones y estado de conservación, y usará debido cuidado para evitar danos a cualquier Instalación de Drenaje en el subsuelo investigando apropiadamente las condiciones del subsuelo antes de cavar o excavar, y de inmediato reparará cualquier daño que pueda ocurrir a cualquier Instalación de Drenaje en la UNIDAD INMOBILIÁRIA. No habrá interferencia o alteración del patrón de drenaje establecido sobre el P.H. GARDENIAS, a menos que una disposición alternativa adecuada se haga para el drenaje apropiado con la aprobación previo por escrita del Comité Arquitectónico. Para los fines del presente Reglamento, drenaje "establecido" es definido como el drenaje que existe al momento del primer Cierre de Caución para la venta de una UNIDAD INMOBILIÁRIA en el PROYECTO, o que aparece en cualesquiera planos aprobados por el Comité Arquitectónico.
 7. Pintar o decorar individualmente, la parte exterior de las paredes, ventanas y puertas de entrada a las UNIDADES INMOBILIARIAS, salvo que previamente lo autorice el Comité Arquitectónico.
 8. Arrojar o permitir que se arrojen en las canerías de desagües, telas, materiales duros o insolubles, tierras, arenes y en general, todo lo que pueda obstruir las mismas.
 9. Utilizar ventanas, balcones o cualquier lugar del interior de la UNIDAD INMOBILIARIA que sea visible desde otra UNIDAD INMOBILIARIA, áreas comunes, calles pasillos, áreas fuera del PROYECTO, para secar o asolear ropa o similares.
@@ -1740,12 +1740,22 @@ Queda prohibido a los PROPIETARIOS, de las UNIDADES INMOBILIARÍAS y a quienes l
 24. No podrán construirse piscinas dentro de las UNIDADES INMOBILIARÍAS o patios; sin el consentimiento del Comité Arquitectónico.
 25. Para efectos de la línea de construcción, retiros usos de suelo y áreas construibles se deberá cumplir con lo establecido en la norma R-E de la Dirección General de Desarrollo Urbano del MIVIOT.
 26. No se permite construir sobre las losas de techo y aleros de las UNIDADES INMOBILIARIAS.
-27. No se permite a los PROPIETARIOS instalar cualquier antena en la parte exterior de una residencia para cualquier propósito, excepto una "Antena Autorizada" que podrá ser instalada siempre y cuando la ubicación propuesta para tal instalación sea revisada y autorizada por la Junta Directiva antes de su instalación, a fin de garantizar que la visibilidad de la Antena Autorizada sea minimizada con respecto a los otros PROPIETARIOS. El Comité Arquitectónico podrá requerir que la ubicación de la Antena Autorizada sea movida, y podrá imponer restricciones adicionales sobre la instalación o uso de una Antena Autorizada, siempre y cuando dichas restricciones (a) no demoren sin motivo o impidan la instalación, mantenimiento o uso de una Antena Autorizada, (b) no aumenten sin motivo el costo de la instalación, mantenimiento o uso de una Antena Autorizada, o (c) no impidan la recepción de una señal de calidad aceptable y será responsabilidad del PROPIETARIO y no del Comité Arquitectónico comprobar cualquier reclamo que no se cumple con tal criterio por su decisión. El Comité Arquitectónico, también podrá prohibir la instalación de una Antena Autorizada en la propiedad en donde un PROPIETARIO no posee un título de dominio absoluto o no tenga derecho a usarla a las disposiciones anteriores, y podrá prohibir o condicionar una instalación por motivos de seguridad. Una "Antena Autorizada" significa una antena que (a) está diseñada para recibir servicio de transmisión de satélite de transmisión directa, incluyendo servicio de satélite directa a casa y que tenga un diámetro de un metro o menos, y (b) está diseñada para recibir servicio de programación por video, incluyendo servicio da distribución de multicanales multipuntos, servicio fijo de televisión instructiva, y servicio de distribución local multipuntos, y que tenga un diámetro de un metro o menos o (c) es una antena que está diseñada para recibir señales de transmisión por televisión. Cada PROPIETARIO podrá mantener sistemas de antena individuales de radio o televisión si se localiza totalmente dentro de la vivienda de dicho PROPIETARIO y si dicho sistema no es visible desde otras UNIDADES INMOBILIARÍAS. Área Común o las calles, y siempre y cuando dicho sistema no interfiera con la recepción de radio y televisión de otros PROPIETARIOS dentro del P.H. GARDENIAS.
+27. Se permite la instalación de antenas receptoras y/o transmisoras en las áreas exteriores privativas de las UNIDADES INMOBILIARIAS, siempre que se cumpla este Reglamento, la Ley y las autorizaciones de la autoridad competente, y que su ubicación, diseño y acabado sean compatibles con la armonía y uniformidad estética del PROYECTO. Se prohíbe la instalación de mástiles y torres en áreas exteriores. Se prohíbe cualquier instalación en ÁREAS COMUNES.
 
-    Ningún operador de estación de radio u onda corta de cualquier tipo operará desde cualquier UNIDAD INMOBILIARÍA o cualquiera otra parte del P.H. GARDENIAS, a menos que sea aprobado por la Asamblea de Propietarios.
+  1. Antenas receptoras y/o transmisoras de radio, televisión o internet satelital de uso residencial (incluyendo sistemas como Starlink o equivalentes): se podrán instalar cuando no comprometan la seguridad, salubridad, estructura ni estabilidad de la propiedad horizontal y cumplan las normas técnicas aplicables. Si la instalación implica modificación de fachada, techo, alero, elementos visibles o cualquier adición sobre la proyección horizontal de la unidad, se requerirá aprobación de la Asamblea de Propietarios con la mayoría legal aplicable y los permisos de autoridad competente.
 
-28. No se podrá colocar poster. letreros, representaciones visuales, valías publicitarias u otros dispositivos de publicidad de cualquier clase, o la vista del público desde cualquier UNIDAD INMOBILIARIA.
-29. No se permitirán artículos excepto mobiliario modemo, atractivo funcional para porches, patios y balcones, así como plantas saludables, con maceteros, en los mismos.
+  2. Equipos y antenas completamente internos: se permiten equipos instalados totalmente dentro de la UNIDAD INMOBILIARIA, no visibles desde ÁREAS COMUNES o vía pública, y que no causen interferencia perjudicial ni riesgos a terceros.
+
+  3. Estaciones de radio u onda corta: su operación solo se permitirá para fines no comerciales y requerirá, en todo caso, el cumplimiento de la licencia, registro o autorización sectorial que exija la normativa panameña. Cuando la operación requiera instalación exterior o modificación de fachada o estructura, se exigirá además aprobación de la Asamblea de Propietarios con la mayoría legal aplicable.
+
+  4. Competencia de la Junta Directiva y del Comité Arquitectónico: la Junta Directiva y el Comité Arquitectónico podrán evaluar la ubicación, el impacto visual y las medidas de seguridad, y recomendar ajustes razonables para preservar la armonía del PROYECTO. No podrán negar ni condicionar solicitudes de forma arbitraria ni contradecir materias reservadas a la Asamblea de Propietarios por Ley.
+
+  5. Procedimiento y garantías: toda solicitud deberá resolverse por escrito dentro de un plazo máximo de treinta (30) días calendario, con motivación técnica y jurídica. La negativa podrá ser reconsiderada ante la Asamblea de Propietarios en su siguiente sesión ordinaria o extraordinaria.
+
+  6. No interferencia y responsabilidad técnica: el PROPIETARIO solicitante deberá asegurar que la instalación y operación no generen interferencia perjudicial ni riesgos a personas o bienes, y deberá corregir cualquier incumplimiento técnico que determine la autoridad competente o la administración del P.H. GARDENIAS.
+
+28. No se podrá colocar posters, letreros, representaciones visuales, valías publicitarias u otros dispositivos de publicidad de cualquier clase, o la vista del público desde cualquier UNIDAD INMOBILIARIA.
+29. No se permitirán artículos excepto mobiliario moderno, atractivo funcional para porches, patios y balcones, así como plantas saludables, con maceteros, en los mismos.
 30. Dichos porches, patios y balcones, no podrán ser utilizados como espacios de almacenamiento o colocación de materiales, artículos no atractivos a la vista o que alteren la fachada de las unidades, etc.
 31.  Ningún balcón, patio o cubierta principal, toldas, cableados o instalación de aires acondicionados, descalificadoras u otras máquinas, serán instaladas en el exterior del P.H. GARDENIAS, ni se permitirá que se proyecten a través de las ventanas, paredes o techos del P.H. GARDENIAS (con la excepción de aquellos instalados durante la construcción original del P.H. GARDENIAS.
 32. A ningún PROPIETARIO se le permitirá construir cerca o pared alguna, excepto aquella que sea instalada de conformidad con la construcción original por EL PROMOTOR.
@@ -1753,6 +1763,7 @@ Queda prohibido a los PROPIETARIOS, de las UNIDADES INMOBILIARÍAS y a quienes l
     Ningún portón será colocado en cerca o pared alguna que se encuentre entre el límite de un Lote y un lote del Área Común, excepto por EL PROMOTOR de conformidad con sus planos arquitectónicos.
 
 33. No habrá cambios en el tratamiento de la fachada, elementos de piedra natural (en las unidades que tengan esta característica), puertas y ventanas, materiales del techo o la paleta de colores usada para el exterior de cualesquiera mejoras dentro del PROYECTO, sin la aprobación previa del Comité Arquitectónico.
+34. Proferir agresiones verbales (insultos, amenazas, vejaciones) o agresiones físicas contra el Administrador, el personal de seguridad o los conserjes del P.H. GARDENIAS.
 
 ##### PARÁGRAFO
 La Junta Directiva podrá establecer, mediante Resoluciones, prohibiciones adicionales que surtirán efecto hasta su aprobación o rechazo en la siguiente Asamblea de Propietarios.
@@ -1775,17 +1786,35 @@ Ninguna maleza, basura, escombros, objetos o materiales de ningún tipo, plantes
 
 Servicio de distribución de gas; las tuberías para la distribución del servicio de gas serán de uso común de las UNIDADES INMOBILIARÍAS, sin embargo, el suministro de gas no es común, y será cobrado en relación al consumo individual da gas por cada UNIDAD INMOBILIARIA, cada a una da las cuales contará con un medidor independiente de consumo de gas.
 
+#### ARTICULO 43
+
+Las multas que imponga el P.H. GOLF GARDENS (P.H. ORIGINARIO) por actos u omisiones atribuibles a un PROPIETARIO, residente o invitado del P.H. GARDENIAS, se tramitarán de conformidad con este Reglamento y con la Ley 284 de 14 de febrero de 2022.
+
+1. Cuando el hecho sea cometido por un PROPIETARIO, residente o invitado, la multa se cargará a la UNIDAD INMOBILIARIA vinculada al infractor. Frente a la Administración, el pago corresponderá al PROPIETARIO titular de dicha UNIDAD INMOBILIARIA, sin perjuicio de su derecho a repetir contra el residente o invitado responsable.
+
+2. La Administración del P.H. GARDENIAS notificará al PROPIETARIO titular de la UNIDAD INMOBILIARIA y, de ser posible, al residente involucrado, dentro de los cinco (5) días hábiles siguientes a la recepción de la comunicación del P.H. ORIGINARIO, adjuntando los soportes correspondientes.
+
+3. El PROPIETARIO titular o el residente involucrado podrá presentar descargos por escrito ante la Junta Directiva del P.H. GARDENIAS dentro de los diez (10) días hábiles siguientes a la notificación. Si el hecho fuere atribuido a un invitado, los descargos se presentarán por conducto del PROPIETARIO titular o del residente vinculado a la UNIDAD INMOBILIARIA. La Junta Directiva resolverá de forma motivada en un plazo máximo de quince (15) días hábiles.
+
+4. Si el PROPIETARIO titular o el residente involucrado no estuviere conforme con la decisión, podrá apelar directamente ante la Junta Directiva del P.H. ORIGINARIO, conforme a su reglamento y a la Ley 284 de 14 de febrero de 2022. En caso de invitado, la apelación se presentará por conducto del PROPIETARIO titular o del residente vinculado a la UNIDAD INMOBILIARIA.
+
+5. El plazo para pagar será de treinta (30) días calendario contados desde la notificación. El cobro se reflejará en el estado de cuenta de la UNIDAD INMOBILIARIA correspondiente. Si se presentan descargos en tiempo oportuno, el plazo de pago quedará suspendido hasta que se emita la decisión respectiva.
+
+6. Vencido el plazo sin pago, no se aplicará recargo a la multa. Sin perjuicio de ello, podrán imponerse las restricciones de uso de servicios y bienes comunes permitidas por la Ley 284 de 14 de febrero de 2022, con exclusión del servicio de agua y de los servicios esenciales, y ejercerse las acciones de cobro correspondientes.
+
+7. El PROPIETARIO podrá solicitar arreglo de pago de la multa, sin recargo, en los términos que apruebe la Junta Directiva. Pagada la totalidad de la deuda o cumplido el arreglo, se levantarán las restricciones aplicadas.
+
 ## CAPITULO IV: ASAMBLEA DE PROPIETARIOS
 
-#### ARTICULO 43
+#### ARTICULO 44
 La Asamblea de Propietarios es el organismo supremo dentro del Régimen de Propiedad Horizontal y están formados por todos los PROPIETARIOS de las UNIDADES INMOBILIARIAS que conforman el respectivo P.H. GARDENIAS.
 
 Cada propietario tendrá un (1) voto por cada UNIDAD INMOBILIARIA, de su propiedad y podrá comparecer a las deliberaciones personalmente o por medio de representante o apoderado. Cuando una UNIDAD INMOBILIARIA, pertenezca a más de una (1) persona natural o jurídica, dicha propiedad tendrá derecho a una (1) sola representación o voto en la Asamblea de Propietarios debiendo escogerse o informarse quien ejercerá la representación de dicha UNIDAD INOBILIARIA.
 
-#### ARTICULO 44
+#### ARTICULO 45
 La Asamblea de Propietarios tendrá a su cargo, y será responsable por la Administración, régimen disciplinario y conservación de los BIENES COMUNES, así como del ahorro, a fin de contar con los fondos para la preservación del bien común, y no el lucro. Para estos efectos, la Asamblea de Propietarios será representada por la Junta Directiva.
 
-#### ARTICULO 45
+#### ARTICULO 46
 La Asamblea de Propietarios tendrá todos aquellas funciones y facultades que la Ley o este Reglamento de Propiedad no le atribuyan a la Junta Directiva, a los Dignatarios, al Comité Arquitectónico, al Administrador, y en especial, las siguientes:
 
 1. Reunirse por lo menos una vez al año, a más tardar el día quince (15) de mayo o el día hábil siguiente, en sesión ordinaria; y en sesión extraordinaria, tantas veces como las circunstancias lo requieran, siempre que así lo solicite el Presidente, cualquier miembro de la Junta Directiva, el Administrador o, por lo menos veinte por ciento (20%) de los PROPIETARIOS que se encuentren al día en el pago de las Cuotas de Gastos Comunes y demás obligaciones financieras.
@@ -1796,10 +1825,10 @@ La Asamblea de Propietarios tendrá todos aquellas funciones y facultades que la
 6. Reformar el reglamento de copropiedad.
 7. Autorizar la ejecución de obras, mejoras o nuevas edificaciones oprobadas por el Comité Arquitectónico, que afecten o vayan a constituir BIENES COMUNES, e imponer las cuotas extraordinarias que se requieren para la ejecución de dichas obras.
 
-#### ARTICULO 46
+#### ARTICULO 47
 La convocatoria para las sesiones de la Asamblea de Propietarios, ya sean éstas ordinarias o extraordinarias, deberá estar hecha con no menos de diez (10) ni más de veinte (20) días hábiles de antelación a la fecha en que debe efectuarse la reunión y se hará por medio de carta, telegrama, tax o cualquier otro medio electrónico dirigido a la dirección que haya indicado cada propietario o por entrega de la citación en la UNIDAD INMOBILARIA correspondiente. Se entiende efectuada la notificación, por la simple entrega de la notificación a la persona que siendo mayor de edad, sea ocupante de la UNIDAD INMOBILARIA o trabajo para el PROPIETARIO.
 
-#### ARTICULO 47
+#### ARTICULO 48
 Para construir quórum en una Asamblea de Propietarios, sea ordinaria o extraordinaria, será necesaria la presencia de, por lo menos, más de la mitad de los PROPIETARIOS, independientemente del número de las UNIDADES INMOBILIARIAS que pertenezcan a cada uno de ellos.
 
 Si transcurrida una hora siguiente a la fijada en la convocatoria no hubiera el quórum requerido, el secretario o quien haga sus veces levantará un acta en que conste tal circunstancia y el número, nombre y porcentaje de participación de los asistentes.
@@ -1808,21 +1837,21 @@ Cumplida esta formalidad, la Asamblea podrá sesionar en segunda convocatoria co
 
 En todas las reuniones de la Asamblea de Propietarios, cualquier PROPIETARIO puede hacerse representar por un mandatario que no necesariamente deberá ser propietario a su vez, y que podrá ser designado por documento público o privado.
 
-#### ARTICULO 48
+#### ARTICULO 49
 Las decisiones de la Asamblea de Propietarios, para que surtan efecto legal y sean de obligatorio cumplimiento, deberán ser aprobadas conforme a los porcentajes y requisitos establecidos en la Ley 284 de 14 de febrero de 2022 y este Reglamento, según la materia de que se trate.
 
 En sesiones extraordinarias no se podrá decidir sobre aquellos asuntos distintos para los cuales haya sido convocada la reunión.
 
 ## CAPITULO V: JUNTA DIRECTIVA
 
-#### ARTICULO 49:
+#### ARTICULO 50:
 La Junta Directiva estará formada por no menos de tres (3) miembros, un Presidente, un Secretario, un Tesorero; quienes serán elegidos anualmente en la sesión ordinaria de la Asamblea de Propietarios y ejercerán sus cargos hasta tanto sus sucesores sean elegidos, tomen posesión y sus reemplazos consten inscritos en el Registro Público.
 
 Los miembros de la Junta Directiva serán de libre nombramiento y remoción de la Asamblea de Propietarios, mediante el voto de, por lo menos el cincuenta y un por ciento (51%) de la totalidad de los propietarios.
 
 Los directores no recibirán compensación alguna por el desempeño de sus cargos.
 
-#### ARTICULO 50
+#### ARTICULO 51
 La Junta Directiva será responsable por cumplir y hacer cumplir las decisiones de la Asamblea de Propietarios en lo referente a la administración y conservación de los BIENES COMUNES y tendrá, además, las siguientes funciones y facultades:
 
 1. Nombrar y remover de su cargo, al Administrador del P.H. GARDENIAS y establecer la remuneración y demás términos y condiciones relativas a sus funciones. Es entendido que el Administrador podrá ser una persona jurídica en cuyo caso ésto deberá designar a un individuo quien ejercerá sus funciones y cumplirá con las obligaciones que la ley o este Reglamento establece en relación con el Administrador.
@@ -1838,14 +1867,14 @@ La Junta Directiva será responsable por cumplir y hacer cumplir las decisiones 
 11. Autorizar al Administrador para que requiera el cobro, por la vía judicial o administrativa, de cualquier deuda de los propietarios.
 12. Nombrar, cuando así lo estime conveniente, un Contador Público Autorizado, quien deberá auditar los libros que lleve el Administrador y rendir un interme ante la Asamblea de Propietarios, a menos que esta, por mayoría de votos, no lo estime conveniente.
 13. Convocar a la asamblea de Propietarios a sesión extraordinaria, cuando así lo requieron las circunstancias.
-14. Crear comités de apoyo y designar a los propietarios que los conformen.
+14. Crear comités de apoyo y designar a los propietarios que los conformen, incluyendo el Comité de Actividades, el cual tendrá como finalidad proponer y organizar actividades en pro de la integración vecinal y del P.H. GARDENIAS, coordinar con la Administración el uso de áreas comunes para dichos fines y actuar conforme a los lineamientos y aprobaciones que establezca la Junta Directiva.
 15. Todas aquellas que le confiere la ley 284 del 14 de febrero de 2022, en su artículo 80.
 16. Cualquiera otra función que le asigne la Asamblea de Propietarios.
 
-#### ARTICULO 51
+#### ARTICULO 52
 La Junta Directiva deberá reunirse en sesión ordinaria por lo menos una vez cada tres (3) meses calendarios en el lugar, hora y fecha que determine el Presidente. Además, deberá reunirse en sesión extraordinaria o en cualquier ocasión cundo lo disponga la Junta Directiva por resolución o cuando el Presidente o el Administrador lo consideren conveniente.
 
-#### ARTICULO 52
+#### ARTICULO 53
 Las convocatorias para las sesiones ordinarios o extraordinarios de la Junta Directiva, las efectuará el Presidente, u otro miembro de la Junta Directiva mediante aviso escrito entregado personalmente, enviado por correo certificado o correo electrónico a cada director, no menos de cinco (5) días ni más de quince (15) días calendario de anticipación. En las sesiones extraordinarias únicamente podrán considerarse los asuntos que hayan sido objeto de la convocatoria.
 
 #### ARTICULO 53

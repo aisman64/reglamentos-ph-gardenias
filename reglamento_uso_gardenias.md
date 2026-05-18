@@ -46,7 +46,7 @@ Los cambios de horarios de uso de áreas comunes deberán notificarse con no men
 #### Artículo 5.
 Son áreas comunes de las unidades inmobiliarias de uso residencial las siguientes: Garita del proyecto, parque con gazebo oficina de administración, y demás bienes comunes establecidos en el Reglamento de Copropiedad del P.H. GARDENIAS (P.H. DERIVADO).
 
-Cada propietario o arrendatario tendrá libre acceso a las áreas comunes que forman parte de su Propiedad, sin más limitaciones que las que imponga el presente Reglamento de Uso, siempre y cuando estén al día con el pago de la cuota de mantenimiento sea ordinaria o extraordinaria.
+Cada propietario o arrendatario tendrá libre acceso a las áreas comunes que forman parte de su Propiedad, sin más limitaciones que las que imponga el presente Reglamento de Uso. El acceso a áreas comunes solo podrá ser restringido conforme a la Ley 284 después de que el propietario incurra en dos (2) meses o más de mora comprobada.
 
 Cada PROPIETARIO deberá contribuir a las expensas necesarias para sufragar los gastos comunes tanto del P.H. ORIGINARIO como del P.H. GARDENIAS, mediante el pago de una cuota mensual de gastos comunes, la cual será sufragada por partes iguales por cada UNIDAD INMOBILIARIA que conforma el P.H. GARDENIAS, y destinada, en el siguiente orden de prioridad, por ser éste un PH Derivado del PH ORIGINARIO GOLF GARDENS:
 
@@ -122,18 +122,20 @@ Se observarán las siguientes reglas en cuanto a los estacionamientos de las ár
 
 2. Vehículos autorizados: los vehículos autorizados dentro del P.H. son los vehículos estándares para pasajeros, incluyendo, pero no de manera taxativa, automóviles, furgonetas para pasajeros diseñadas para acomodar diez o menos personas, motocicletas, vehículos todo terreno y camionetas con una clasificación del fabricante o capacidad de carga útil de una tonelada o menos. Estos vehículos sólo pueden ser estacionados en los espacios de estacionamiento asignados para la unidad inmobiliaria, , sin obstruir o cerrar, en ningún momento, los accesos comunes de los peatones o demás vehículos ni las entradas o salidas del P.H. La velocidad máxima permitida dentro del P.H. GARDENIAS (P.H. DERIVADO) es de 20km/hr.
 
-3. Vehículos Restringidos dentro del P.H.: a) Vehículos tipo comerciales (es decir, camiones de estacas, camiones cisternas, volquetas, furgonetas de techo alto, concreteras, limosinas, etc.); b) Buses o furgonetas diseñadas para acomodar más de diez personas; c) Vehículos que tengan más de dos ejes; d) Remolques, vehículos inutilizables o piezas de vehículos; y e) Aeronaves, lanchas, botes y otros vehículos similares o cualquier vehículo o equipo de vehículo considerado un peligro por la Junta Directiva. Los vehículos restringidos no podrán ser estacionados, almacenados ni mantenidos en ninguna calle pública o privada dentro, adyacente o visible desde la propiedad o cualquier otra área de estacionamiento del Área Común, excepto por breves períodos para cargar, descargar, realizar entregas o reparaciones de emergencia. Si un vehículo califica tanto como vehículo autorizado y vehículo restringido, entonces se presume que el vehículo es un vehículo restringido, a menos que el vehículo sea clasificado expresamente como un vehículo autorizado por escrito por la Junta Directiva.
+3. Vehículos Restringidos dentro del P.H.: a) Vehículos tipo comerciales (es decir, camiones de estacas, camiones cisternas, volquetas, furgonetas de techo alto, concreteras, limosinas, etc.); b) Buses o furgonetas diseñadas para acomodar más de diez personas; c) Vehículos que tengan más de dos ejes; d) Remolques, vehículos inutilizables o piezas de vehículos; e) Aeronaves, lanchas, botes y otros vehículos similares; y f) Vehículos que excedan los siguientes parámetros técnicos: peso total superior a 4,500 kg, largo superior a 6.5 metros, alto superior a 2.5 metros, o que posean carrocería inflamable o tóxica. Toda restricción de vehículo basada en estos criterios técnicos será notificada por escrito al propietario, indicando la especificación técnica que motiva la restricción. Los vehículos restringidos no podrán ser estacionados, almacenados ni mantenidos en ninguna calle pública o privada dentro, adyacente o visible desde la propiedad o cualquier otra área de estacionamiento del Área Común, excepto por breves períodos para cargar, descargar, realizar entregas o reparaciones de emergencia. Si un vehículo califica tanto como vehículo autorizado y vehículo restringido, entonces se presume que el vehículo es un vehículo restringido, a menos que el vehículo sea clasificado expresamente como un vehículo autorizado por escrito por la Junta Directiva.
 
 4. Sobre los estacionamientos de las unidades inmobiliarias de uso residencial:
 
-    1. Sobre los estacionamientos de los propietarios o arrendatarios residentes: todos los vehículos de propiedad de un propietario de unidad inmobiliaria para uso residencial deberán ser estacionados en el espacio de estacionamiento residencial asignado a tal propietario por el promotor. Sobre tales espacios se deberán observar las siguientes restricciones: a) Ningún propietario de unidad inmobiliaria para uso residencial podrá estacionarse en las áreas de estacionamiento en la calle que están designadas para visitas; b) Ningún propietario podrá realizar, dentro de la PROPIEDAD, ni siquiera en el espacio de estacionamiento residencial asignado a tal propietario, labores de reparación, mantenimiento o restauración de vehículo alguno, incluyendo lavado del vehículo; c); Ningún espacio de estacionamiento podrá ser utilizado como depósito; y h) Bajo ninguna circunstancia se podrán mantener en los espacios de estacionamiento explosivos, fuegos artificiales, material inflamable tal como gasolina, kerosén, aceite, pinturas de aceite, solventes, etc.
+    1. Sobre los estacionamientos de los propietarios o arrendatarios residentes: todos los vehículos de propiedad de un propietario de unidad inmobiliaria para uso residencial deberán ser estacionados en el espacio de estacionamiento residencial asignado a tal propietario por el promotor. Sobre tales espacios se deberán observar las siguientes restricciones: a) Ningún propietario de unidad inmobiliaria para uso residencial podrá estacionarse en las áreas de estacionamiento en la calle que están designadas para visitas; b) Se permite el lavado de vehículos y la realización de mantenimientos ligeros únicamente dentro del espacio de estacionamiento residencial asignado al propietario, siempre que no se obstruyan áreas comunes ni se generen derrames o condiciones de riesgo. Cuando estos trabajos sean realizados por un proveedor externo, solo podrán ejecutarse dentro del horario vigente permitido para contratistas y trabajadores del P.H.; c); Ningún espacio de estacionamiento podrá ser utilizado como depósito; y h) Bajo ninguna circunstancia se podrán mantener en los espacios de estacionamiento explosivos, fuegos artificiales, material inflamable tal como gasolina, kerosén, aceite, pinturas de aceite, solventes, etc.
+
+    Para efectos de este Reglamento, se entiende por mantenimiento ligero las labores menores de rutina que no impliquen desarme mayor del vehículo, uso de equipos especializados ni trabajos que generen ruido excesivo, residuos peligrosos o afectación a terceros, tales como cambio de limpiaparabrisas, cambio de bombillos, revisión y calibración de presión de llantas, cambio de batería, reemplazo de fusibles, cambio de aceite y cambio de filtros de aceite, aire y cabina.
 
     2. Sobre los estacionamientos de visita: los visitantes o terceros, tales como repartidores a domicilio, solamente podrán usar los estacionamientos destinados y marcados para tal fin. Todos los propietarios y residentes tienen la obligación de indicar a sus respectivas visitas que deben seguir las instrucciones que al respecto del estacionamiento les den en la garita de entrada o cualquiera de los conserjes y/o personal de seguridad; b) no se permitirá que taxis, buses colegiales, o cualquier otro medio de transporte, que esté esperando a un propietario o arrendatario residente, use los estacionamientos de visitas mientras espera, ni tampoco que obstaculice las calles de acceso al P.H. por más de diez (10) minutos; c) Los vehículos que transporten bienes de algún propietario para su descarga deberán permanecer en todo momento fuera del área de estacionamiento del P.H.; y d) Los propietarios y residentes, sean arrendatarios o no, tienen prohibido utilizar los estacionamientos de visita para sus vehículos personales.
 
 ## III. ÁREA DE PARQUE INFANTIL CON GAZEBO
 
 #### Artículo 11.
-El P.H. GARDENIAS cuenta con un parque infantil con gazebo, dicha área es de uso exclusivo para los hijos de los propietarios o residentes, quienes podrán estar acompañados regularmente de un máximo de otros cuatro (4) niños invitados y obligatoriamente acompañados y custodiados por un adulto residente, responsable por los niños.
+El P.H. GARDENIAS cuenta con un parque infantil con gazebo, dicha área es de uso exclusivo para los residentes y sus invitados.
 
 En caso de producirse daños, la administración se encargará de las reparaciones y/o aseos necesarios, con cargo al propietario. Estas reparaciones podrán ser cobradas a través del gasto común.
 
@@ -141,17 +143,51 @@ Normas para el Uso de Área de parque infantil y gazebo:
 
 1. El Horario para el uso del Área del parque infantil y gazebo es de 7:00 a.m. a 7:00 p.m.
 
-2. Los niños siempre deberán estar acompañados de un adulto responsable (padres, nanas, niñeras) que será el único garante de la seguridad y del comportamiento que tengan.
+2. Los niños siempre deberán estar acompañados de un adulto responsable (padres, nanas, niñeras) que será el único garante de la seguridad y del comportamiento que tengan. Bajo ninguna circunstancia se permitirá que menores permanezcan en el área sin supervisión de adulto responsable.
 
-3. Se recomienda que los muebles y juegos de niños sean utilizados de acuerdo con la edad adecuada para cada uno de éstos.
+3. El número máximo de niños en el área será diez (10) en cualquier momento, incluyendo hijos de propietarios e invitados. La proporción mínima de supervisión será de un (1) adulto por cada cinco (5) niños.
 
-4. El residente de la unidad inmobiliaria donde viva el niño, y Propietario de dicha unidad, será responsable de cubrir el costo de cualquier daño que los niños puedan causar al área, mobiliario y enseres.
+4. Se recomienda que los muebles y juegos de niños sean utilizados de acuerdo con la edad adecuada para cada uno de éstos.
 
-5. Cuando en el área para los niños haya muebles o juegos propiedad del P.H., estos solo deberán ser utilizados por los niños y no está permitido que los adultos los utilicen.
+5. El residente de la unidad inmobiliaria donde viva el niño, y Propietario de dicha unidad, será responsable de cubrir el costo de cualquier daño que los niños puedan causar al área, mobiliario y enseres.
 
-6. Todo Propietario o Residente debe comprometerse a enseñar a los niños para que tengan buena conducta, no dañen los muebles y boten la basura que produzcan en los canastos o basureros colocados para tal efecto.
+6. Cuando en el área para los niños haya muebles o juegos propiedad del P.H., estos solo deberán ser utilizados por los niños y no está permitido que los adultos los utilicen.
 
-7. No se permite fumar ni ingerir bebidas alcoholicas en el área de juego de niños y adyacentes.
+7. Todo Propietario o Residente debe comprometerse a enseñar a los niños para que tengan buena conducta, no dañen los muebles y boten la basura que produzcan en los canastos o basureros colocados para tal efecto.
+
+8. No se permite fumar ni ingerir bebidas alcoholicas en el área de juego de niños y adyacentes.
+
+#### Artículo 11A.
+Alquiler del gazebo por residentes.
+
+1. Los propietarios y arrendatarios residentes del P.H. GARDENIAS (P.H. DERIVADO) podrán solicitar el alquiler del gazebo para actividades privadas de carácter familiar o vecinal.
+
+2. La solicitud deberá presentarse por escrito ante la Administración con un mínimo de cinco (5) días calendario de anticipación, indicando fecha, horario, unidad inmobiliaria solicitante y cantidad estimada de asistentes.
+
+3. La tarifa de alquiler del gazebo será de cien balboas (B/. 100.00) por evento y deberá ser cancelada antes del inicio de la actividad.
+
+4. Para actividades autorizadas conforme al presente artículo, el uso del gazebo podrá extenderse hasta las 9:00 p.m., manteniéndose en todo momento el cumplimiento de las normas de convivencia y de control de ruido previstas en este Reglamento.
+
+5. El residente solicitante será responsable por el orden, limpieza, manejo adecuado de desechos y reparación de cualquier daño causado al área común, sin perjuicio de los cobros que correspondan por gasto común.
+
+6. Queda prohibida la cesión, subalquiler o transferencia de la reserva a personas no residentes del P.H. GARDENIAS (P.H. DERIVADO).
+
+7. El incumplimiento de este artículo será sancionado conforme al régimen de prohibiciones, multas y garantías procedimentales establecido en este Reglamento.
+
+#### Artículo 11B.
+Uso del gazebo por el Comité de Actividades.
+
+1. El Comité de Actividades podrá solicitar el uso del gazebo para actividades en pro de la integración vecinal y del P.H. GARDENIAS (P.H. DERIVADO), previa coordinación con la Administración y aprobación de la Junta Directiva.
+
+2. Las actividades organizadas por el Comité de Actividades deberán tener finalidad comunitaria y no podrán destinarse a fines comerciales ni de lucro personal.
+
+3. La programación de dichas actividades deberá presentarse con un mínimo de cinco (5) días calendario de anticipación, salvo casos especiales debidamente justificados y autorizados por la Junta Directiva.
+
+4. El uso del gazebo para estas actividades podrá extenderse hasta las 9:00 p.m., respetando las disposiciones sobre ruido, seguridad y convivencia aplicables en el P.H. GARDENIAS (P.H. DERIVADO).
+
+5. Cuando la actividad sea oficial del Comité de Actividades y esté aprobada por la Junta Directiva, no causará tarifa de alquiler; en todo caso, el Comité y los participantes responderán por la limpieza, el orden y los daños que se ocasionen.
+
+6. El incumplimiento de este artículo se sujetará al régimen de prohibiciones, multas y garantías procedimentales establecido en este Reglamento.
 
 ## IV. ANIMALES DOMÉSTICOS
 
@@ -183,11 +219,15 @@ EL HORARIO de mudanzas es de lunes a viernes desde las 8:00 a.m hasta las 4:00 p
 #### Artículo 19.
 El propietario de la unidad inmobiliaria, deberá estar presente durante la mudanza o asignar una persona responsable mediante una nota dirigida a la Administración, en donde se indique el nombre completo, cédula o pasaporte y la identificación de la unidad inmobiliaria correspondiente.
 
-#### Artículo 20.
-Todo propietario o residente, sea este arrendatario o no, debe consignar la suma no reembolsable de cien dólares (US$100.00) para cubrir posibles daños durante la mudanza. El propietario o residente, no obstante, es responsable por la totalidad de los daños que pudiera ocasionar, más allá de lo que cubra su depósito.
-
 #### Artículo 21.
-La Junta Directiva se reserva el derecho a cancelar la mudanza, en pro del bienestar general del P.H.
+La Junta Directiva podrá cancelar una mudanza programada únicamente por las siguientes causales específicas y objetivas:
+
+a) Riesgo de seguridad o daño estructural;
+b) Incumplimiento de documentación requerida conforme este Reglamento (identificación responsable);
+c) Violación comprobada de horarios establecidos en el Artículo 18;
+d) Constancia de responsabilidad en daños previos no pagados.
+
+Cualquier decisión de cancelación deberá notificarse por escrito al propietario, indicando la causal específica y otorgando el derecho de presentar descargos.
 
 Todo propietario o residente, sea arrendatario o no, será responsable de desechar todo el material y empaque de su mudanza. Está prohibido dejar cajetas, plásticos, papel envoltorio y demás en los depósitos de basura de las unidades inmobiliarias y en áreas comunes.
 
@@ -210,7 +250,7 @@ Las únicas modificaciones que podrán realizar los propietarios en la fachada d
 2. Terraza.
 3. Ornato (Plantas).
 4. Verjas (se permitirá la colocación en la parte interior de la ventana)
-5. Paneles solares (esto solo podrán colocarse en la parte posterior de la fachada).
+5. La instalación de paneles solares únicamente se permitirá sobre la parte frontal y posterior del techo de la planta alta de la residencia. Queda expresamente prohibida su colocación sobre los aleros o techos de terrazas y estacionamientos.
 
 #### Artículo 24.
 El procedimiento para solicitar la autorización del Comité Arquitectónico, conforme lo establece el Reglamento de Copropiedad del P.H. GARDENIAS (P.H. DERIVADO), será el siguiente:
@@ -256,9 +296,9 @@ Todo propietario deberá registrar ante la Administración la información del a
 ## VIII. RECOLECCIÓN DE BASURA Y CONTROL DE PESTES
 
 #### Artículo 33.
-La Administración del P.H. GARDENIAS (P.H. DERIVADO) solamente se encargará de retirar diariamente, la basura que los propietarios de las unidades inmobiliarias dispongan para tal propósito, la cual será colocada por los propietarios en bolsas resistentes y cerradas en los depósitos (tinaqueras) ubicados para tal fin. Cuando la generación de basura o desperdicios de la unidad inmobiliaria sea excesiva, a juicio de la Junta Directiva, ésta podrá requerir del propietario del mismo que contrate los servicios para la disposición diaria de dicha basura o desperdicios.
+La recolección de basura del P.H. GARDENIAS (P.H. DERIVADO) es prestada por un proveedor gubernamental. La Administración coordinará internamente la disposición de la basura que los propietarios de las unidades inmobiliarias coloquen para tal propósito, la cual deberá ser depositada en bolsas resistentes y cerradas dentro de los depósitos (tinaqueras) ubicados para tal fin. Cuando la generación de basura o desperdicios de una unidad inmobiliaria sea excesiva, a juicio de la Junta Directiva, ésta podrá requerir al propietario que contrate los servicios complementarios necesarios para la disposición de dicha basura o desperdicios.
 
-Cada propietario de las unidades inmobiliarias deberá cubrir la tasa de aseo impuesto por la entidad gubernamental o municipal respectiva.
+La tasa de aseo aplicable por la entidad gubernamental o municipal respectiva se encuentra incluida dentro de la cuota de gastos comunes del P.H. GARDENIAS (P.H. DERIVADO), por lo que no se cobrará por separado a cada propietario.
 
 #### Artículo 34.
 Los propietarios y/o arrendatarios de las unidades inmobiliarias deberán mantener sus unidades en condiciones de salubridad y control de plagas. Como regla general, deberán realizar fumigación preventiva por lo menos cada seis (6) meses, o con mayor frecuencia cuando así lo indiquen las autoridades de salud o exista infestación comprobada.
@@ -279,11 +319,11 @@ Los PROPIETARIOS deberán sufragar los gastos de administración, conservación,
 
 2. Los gastos de conservación y mantenimiento de los bienes comunes del P.H. GARDENIAS.
 
-Las cuotas de mantenimiento serán cubiertas durante los DIEZ (10) primeros días de cada mes. A partir del día 11 (once) del mes se aplicará automáticamente un recargo de diez por ciento (10%) sobre la suma vencida, conforme a la Ley 284 de 14 de febrero de 2022. Para efectos del cálculo de morosidad, se tomará como fecha de pago la fecha en que la transacción quede reflejada en los estados bancarios de las cuentas del P.H. GARDENIAS. La Junta Directiva notificará por escrito al propietario de la aplicación del recargo.
+Las cuotas de mantenimiento serán cubiertas durante los DIEZ (10) primeros días de cada mes. A partir del día 11 (once) del mes se aplicará automáticamente un recargo de diez por ciento (10%) sobre la suma vencida, conforme a la Ley 284 de 14 de febrero de 2022. Para la aplicación de recargos por morosidad, se tomará en cuenta como fecha de pago la fecha en que la transacción quede reflejada en los estados bancarios de las cuentas del P.H. GARDENIAS.
 
-En caso de que durante el año exista un cambio en la cuota de gastos comunes, el PROPIETARIO deberá pagar la diferencia o, según corresponda, se le acreditará el ajuste respectivo, dentro de los treinta (30) días calendario siguientes a la fecha efectiva del cambio de cuota. Para obtener el beneficio sobre la diferencia, el PROPIETARIO deberá encontrarse al día en el pago de sus cuotas y haber efectuado el pago adelantado de la anualidad conforme a este artículo.
+Si durante el año se modifica la cuota de gastos comunes, dicho ajuste aplicará a todos los PROPIETARIOS. En el caso de los PROPIETARIOS que hayan pagado por adelantado la anualidad de las cuotas de mantenimiento, podrán mantener el mismo beneficio sobre el resto de la cuota siempre que paguen la diferencia dentro de los treinta (30) días calendario siguientes a la notificación de la nueva cuota.
 
-Los pagos podrán hacerse por depósito directo, transferencia local o internacional y por cualquier otro medio de pago autorizado por la Administración que permita trazabilidad y emisión de recibo.
+Los pagos podrán hacerse por depósito directo, transferencia local o internacional y por cualquier otro medio de pago autorizado por la Junta Directiva que permita trazabilidad y emisión de recibo.
 
 Para reservar áreas sociales de uso exclusivo, el propietario deberá estar a paz y salvo con las cuotas de la administración. Las demás medidas por morosidad se aplicarán conforme a la Ley y al presente Reglamento, incluyendo el plazo mínimo de dos (2) meses de atraso cuando corresponda.
 
@@ -321,7 +361,9 @@ Los propietarios no podrán incurrir en las siguientes conductas que serán sanc
 16. Disponer de la basura o de los desperdicios por medios distintos a los previstos por la administración del P.H. GARDENIAS (P.H. DERIVADO).
 17. Cuando por omisión o negligencia en el cumplimiento de los deberes asignados a cada propietario en el Reglamento de Propietarios o este Reglamento, la copropiedad tuviese que hacer gastos distintos de los ordinarios, al propietario responsable se le cobrarán las expensas así ocasionadas, más un recargo indemnizatorio del veinte por ciento (20%), del valor de aquéllas.
 18. En caso de que la Administración del P.H. GARDENIAS (P.H. DERIVADO), detecte la adulteración de alguno de los equipos de medición de una unidad inmobiliaria, cobrará una sanción equivalente a doscientos dólares (US$200.00) sin menoscabo de la sanción que imponga la compañía proveedora de energía eléctrica.
-19. Cualquier otra conducta no permitida de acuerdo con este reglamento, para la cual no se contemple una sanción específica.
+19. Proferir insultos, amenazas, vejaciones o cualquier agresión verbal contra la Administración, el personal de seguridad o los conserjes del P.H. GARDENIAS (P.H. DERIVADO).
+20. Incurrir en agresión física, intento de agresión física o contacto físico intimidatorio contra la Administración, el personal de seguridad o los conserjes del P.H. GARDENIAS (P.H. DERIVADO).
+21. Cualquier otra conducta no permitida de acuerdo con este reglamento, para la cual no se contemple una sanción específica.
 
 #### Artículo 38.
 En casos urgentes o apremiantes que miren a la seguridad, la salud, o la vida de los ocupantes del P.H. GARDENIAS (P.H. DERIVADO), el Administrador podrá adoptar medidas inmediatas y provisionales de protección.
@@ -340,16 +382,20 @@ Todo propietario o residente tendrá derecho a presentar peticiones respetuosas 
 
 | INFRACCIÓN | MULTA |
 | --- | --- |
-| Modificaciones de fachadas sin la previa aprobación del Comité Arquitectónico | $500.00 |
-| Colocar letreros de se vende / se alquila o cualquier material publicitario visible en las unidades | $200.00 |
-| Mascotas sueltas fuera de las unidades inmobiliarias | $75.00 |
-| No limpiar los desechos de las mascotas inmediatamente | $50.00 |
-| Falta de limpieza y no desechar la basura luego de mudanzas | $50.00 |
+| Modificaciones de fachadas o exteriores sin aprobación previa del Comité Arquitectónico | $500.00 |
+| Colocar letreros o material publicitario visible en unidades o áreas del P.H. | $200.00 |
+| No asistir a las Asambleas de Propietarios | $173.00 |
 | Exceder límite de invitados en el área social | $150.00 |
-| Retraso en el pago de la cuota de mantenimiento | Hasta 20% sobre monto vencido, conforme Ley |
-| Estacionarse en los estacionamientos reservados para visitas o en área común | $75.00 |
-| Arrojar basura en las áreas comunes | $100.00 |
-| Exceso de ruidos o sonidos altos que perturben a los demás residentes | $100.00 |
-| No asistir a las Asambleas de Propietarios | $150.00 |
-| No informar oportunamente sobre el alquiler de una unidad inmobiliaria | $75.00 |
+| Faltas de convivencia en áreas comunes (ruidos y manejo inadecuado de basura) | $100.00 |
+| Faltas de administración y uso común (alquiler no reportado, mascotas sueltas y estacionamientos de visita) | $75.00 |
+| Falta de limpieza en obligaciones de mascotas y mudanzas | $50.00 |
+| Uso no residencial, hotelero, comercial o industrial prohibido de la unidad inmobiliaria | TBD |
+| Faltas de acceso, convivencia y uso de áreas comunes | TBD |
+| Faltas de estacionamientos, circulación y tránsito interno | TBD |
+| Faltas de obras, instalaciones, drenajes, salubridad y seguridad | TBD |
+| Faltas en tenencia y manejo de mascotas no cubiertas en categorías específicas | TBD |
+| Agresiones verbales contra la Administración, personal de seguridad o conserjes | TBD |
+| Agresiones físicas contra la Administración, personal de seguridad o conserjes | TBD |
+| Retraso en el pago de la cuota de mantenimiento | 10% sobre monto vencido |
+| Cualquier otra infracción o prohibición prevista en este Reglamento de Uso y en el Reglamento de Copropiedad | TBD |
 
